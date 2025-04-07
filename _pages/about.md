@@ -76,62 +76,62 @@ Our goal is to research  novel OS architecture, key technologies for performance
 
 - Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma, Jie Yu. [Pmet: Precise model editing in a transformer](https://ojs.aaai.org/index.php/AAAI/article/view/29818), **AAAI 2024**
 - Shezheng Song, Shan Zhao, Shasha Li, Chengyu Wang, Tianwei Yan, Xiaoguang Mao, Meng Wang. [A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking](https://ojs.aaai.org/index.php/AAAI/article/view/29867), **AAAI 2024**
-- Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Zibo Yi, Mengxue Du, Miaomiao Li, Jie Liu, Zeyao Mo. [A More Context-aware Approach for Textual Adversarial Attacks using Probability Difference-guided Beam Search](), ****
-- Mengxue Du, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Miaomiao Li, Bin Ji. [DADR: A Denoising Approach for Dense Retrieval ModelTraining](), ****
-- Xi Deng, Shasha Li, Jie Yu, Jun Ma. [HM-Transformer: Hierarchical Multi-modalTransformer for Long Document Image Understanding](), ****
-- Miaomiao Li, Jie Yu, Jun Ma, Shasha Li, Huijun Liu, Mengxue Du. [QAE: A Hard-label Textual Attack Considering the Comprehensive Quality of Adversarial Examples](), ****
-- Yingwei Ma, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong, Xiangke Liao. [MulCS: Towards a Unified Deep Representation for Multilingual Code Search](), ****
-- Jing Yang, Bin Ji, Shasha Li, Jun Ma, Long Peng, Jie Y. [Dynamic Multi-View Fusion Mechanism For Chinese Relation Extraction](), ****
+- Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Zibo Yi, Mengxue Du, Miaomiao Li, Jie Liu, Zeyao Mo. [A More Context-aware Approach for Textual Adversarial Attacks using Probability Difference-guided Beam Search](), **TKDE**
+- Mengxue Du, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Miaomiao Li, Bin Ji. [DADR: A Denoising Approach for Dense Retrieval ModelTraining](), **APWeb-WAIM**
+- Xi Deng, Shasha Li, Jie Yu, Jun Ma. [HM-Transformer: Hierarchical Multi-modalTransformer for Long Document Image Understanding](), **APWeb-WAIM**
+- Miaomiao Li, Jie Yu, Jun Ma, Shasha Li, Huijun Liu, Mengxue Du. [QAE: A Hard-label Textual Attack Considering the Comprehensive Quality of Adversarial Examples](), **NLPCC**
+- Yingwei Ma, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong, Xiangke Liao. [MulCS: Towards a Unified Deep Representation for Multilingual Code Search](), **SANER**
+- Jing Yang, Bin Ji, Shasha Li, Jun Ma, Long Peng, Jie Y. [Dynamic Multi-View Fusion Mechanism For Chinese Relation Extraction](), **PAKDD**
 
 ## 2022
 
-- Bin Ji, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Win-Win Cooperation: Bundling Sequence and Span Models for Named Entity Recognition](), ****
-- Jing Yang, Bin Ji, Shasha Li, Jun Ma, Jie Yu. [SciCN: A Scientific Dataset for Chinese Named Entity Recognition](), ****
-- Bin Ji, Shasha Li, Shaoduo Gan, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes](), ****
-- Bin Ji, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Span-based Joint Entity and Relation Extraction Augmented with Sequence Tagging Mechanism](), ****
-- Huijun Liu, Jie Yu, Jun Ma, Shasha Li, Bin Ji, Zibo Yi, Miaomiao Li, Long Peng, Xiaodong Liu. [Textual Adversarial Attacks by Exchanging Text-Self Words](), ****
-- Hao Xu, Long Peng, Xiaodong Liu, Menglin Zhang, Jun Ma, Jie Yu, Zibo Yi. [KylinTune: DQN-based Energy-efficient Model for Browser in Mobile Devices](), ****
-- Miaomiao Li, Jie Yu, Shasha Li, Jun Ma, Huijun Liu. [Textual Adversarial Attacks on Named Entity Recognition in a Hard Label Black Box Setting](), ****
-- Bin Ji, Yalong Xie, Jie Yu, Shasha Li, Jun Ma, Yun Ji, Huijun Liu. [A novel bundling learning paradigm for named entity recognition](), ****
-- Mengxue Du, Shasha Li, Jie Yu, Jun Ma, Bin Ji, Huijun Liu, Wuhang Lin, Zibo Yi. [Topic-Grained Text Representation-based Model for Document Retrieval](), ****
-- Wuhang Lin, Shasha Li, Chen Zhang, Bin Ji, Jie Yu, Jun Ma, Zibo Yi. [SummScore: A Comprehensive Evaluation Metric for Summary Quality Based on Cross-Encoder](), ****
-- Bin Ji, Hao Xu, Jie Yu, Shasha Li, Jun Ma, Huijun Liu. [A Two-Phase Paradigm for Joint Entity-Relation Extraction](), ****
-- Jie Yu, Bin Ji, Shasha Li, Jun Ma, Huijun Liu, Hao Xu. [S-NER: A Concise and Efficient Span-based Model for Named Entity Recognition](), ****
+- Bin Ji, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Win-Win Cooperation: Bundling Sequence and Span Models for Named Entity Recognition](), **TKDE**
+- Jing Yang, Bin Ji, Shasha Li, Jun Ma, Jie Yu. [SciCN: A Scientific Dataset for Chinese Named Entity Recognition](), **CMC-Computers**
+- Bin Ji, Shasha Li, Shaoduo Gan, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes](), **COLING**
+- Bin Ji, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Span-based Joint Entity and Relation Extraction Augmented with Sequence Tagging Mechanism](), **SCIS**
+- Huijun Liu, Jie Yu, Jun Ma, Shasha Li, Bin Ji, Zibo Yi, Miaomiao Li, Long Peng, Xiaodong Liu. [Textual Adversarial Attacks by Exchanging Text-Self Words](), **International Journal of Intelligent Systems**
+- Hao Xu, Long Peng, Xiaodong Liu, Menglin Zhang, Jun Ma, Jie Yu, Zibo Yi. [KylinTune: DQN-based Energy-efficient Model for Browser in Mobile Devices](), **IPCCC**
+- Miaomiao Li, Jie Yu, Shasha Li, Jun Ma, Huijun Liu. [Textual Adversarial Attacks on Named Entity Recognition in a Hard Label Black Box Setting]()
+- Bin Ji, Yalong Xie, Jie Yu, Shasha Li, Jun Ma, Yun Ji, Huijun Liu. [A novel bundling learning paradigm for named entity recognition](), **Knowledge-Based Systems**
+- Mengxue Du, Shasha Li, Jie Yu, Jun Ma, Bin Ji, Huijun Liu, Wuhang Lin, Zibo Yi. [Topic-Grained Text Representation-based Model for Document Retrieval](), **ICANN**
+- Wuhang Lin, Shasha Li, Chen Zhang, Bin Ji, Jie Yu, Jun Ma, Zibo Yi. [SummScore: A Comprehensive Evaluation Metric for Summary Quality Based on Cross-Encoder](), **APWeb-WAIM**
+- Bin Ji, Hao Xu, Jie Yu, Shasha Li, Jun Ma, Huijun Liu. [A Two-Phase Paradigm for Joint Entity-Relation Extraction](), **CMC-computers, materials and continua**
+- Jie Yu, Bin Ji, Shasha Li, Jun Ma, Huijun Liu, Hao Xu. [S-NER: A Concise and Efficient Span-based Model for Named Entity Recognition](), **Sensors**
 
 ## 2021
 
-- Zibo Yi, Jie Yu, Yusong Tan, and Qingbo Wu. [Fine-tuning more stable neural text classifiers for defending word level adversarial attacks](), ****
-- Xiaohu Du, Jie Yu, Shasha Li, Zibo Yi, and Jun Ma. [Combating Word-level Adversarial Text with Robust Adversarial Training](), ****
-- Wuhang Lin, Jianling Li, Zibo Yi, Bin Ji, Shasha Li, Jie Yu, Jun Ma. [A Unifified Summarization Model with Semantic Guide and Keyword Coverage Mechanism](), ****
-- Zibo Yi, Jie Yu, Yusong Tan, Qingbo Wu. [A Multimodal Adversarial Attack Framework Based on Local and Random Search Algorithms](), ****
-- Hao Xu, Long Peng, Tao Mao, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [B2GPAPI: an Efficient Framework Providing C/C++ Runtime in Web-based OS](), ****
-- Hao Xu, Long Peng, Tao Mao, Wenjie Li, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [A Framework to Run C/C++ Application on Web-based OS](), ****
-- Hao Xu, Long Peng, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [A Power-on Hardware Self-test Framework in Web-based OS](), ****
+- Zibo Yi, Jie Yu, Yusong Tan, and Qingbo Wu. [Fine-tuning more stable neural text classifiers for defending word level adversarial attacks](), **Applied Intelligence**
+- Xiaohu Du, Jie Yu, Shasha Li, Zibo Yi, and Jun Ma. [Combating Word-level Adversarial Text with Robust Adversarial Training](), **IJCNN**
+- Wuhang Lin, Jianling Li, Zibo Yi, Bin Ji, Shasha Li, Jie Yu, Jun Ma. [A Unifified Summarization Model with Semantic Guide and Keyword Coverage Mechanism](), **ICANN**
+- Zibo Yi, Jie Yu, Yusong Tan, Qingbo Wu. [A Multimodal Adversarial Attack Framework Based on Local and Random Search Algorithms](), **International Journal of Computational Intelligence Systems**
+- Hao Xu, Long Peng, Tao Mao, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [B2GPAPI: an Efficient Framework Providing C/C++ Runtime in Web-based OS](), **WCSE 2021**
+- Hao Xu, Long Peng, Tao Mao, Wenjie Li, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [A Framework to Run C/C++ Application on Web-based OS](), **ICACTE**
+- Hao Xu, Long Peng, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [A Power-on Hardware Self-test Framework in Web-based OS](), **DCABES**
 - Jianling Li, Wuhang Lin, Shasha Li, Jie Yu, Jun Ma. [Hierarchical Encoder-Decoder Summary Model With An Instructor For Long Academic Papers](), ****
-- Peng Long, Xu Hao, Yu Jie, Liu Xiaodong, Guan Fei. [EmSBoTScript: A Tiny Virtual Machine-Based Embedded Software Framework](), ****
-- Guan Fei, Peng Long, Qiao Jiaqing. [A Fluid Scheduling Algorithm for DAG Tasks with Constrained or Arbitrary Deadlines](), ****
-- Jun Ma, Kai Zhou, Yi Ren, Hao Zhu, Ying Qin, Jing Wang. [面向操作系统版本构建的软件包依赖关系分析](), ****
-- Jie Yu, Bin Ji, Shasha Li, Jun Ma, Huijun Liu. [面向中文医疗事件的联合抽取方法](), ****
+- Peng Long, Xu Hao, Yu Jie, Liu Xiaodong, Guan Fei. [EmSBoTScript: A Tiny Virtual Machine-Based Embedded Software Framework](), **International Conference on Computer and Communication Systems**
+- Guan Fei, Peng Long, Qiao Jiaqing. [A Fluid Scheduling Algorithm for DAG Tasks with Constrained or Arbitrary Deadlines](), **IEEE Transactions on Computers**
+- Jun Ma, Kai Zhou, Yi Ren, Hao Zhu, Ying Qin, Jing Wang. [面向操作系统版本构建的软件包依赖关系分析](), **计算机工程与科学**
+- Jie Yu, Bin Ji, Shasha Li, Jun Ma, Huijun Liu. [面向中文医疗事件的联合抽取方法](), **计算机科学**
 
 ## 2020 and former
-- Bin Ji, Jie Yu, Shasha Li, Jun Ma, Qingbo Wu, Yusong Tan. [Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations](), ****
-- Bin Ji, Shasha Li, Jie Yu, Jun Ma, Yusong Tan, Qingbo Wu, Huijun Liu, Yun Ji. [Research on Chinese medical named entity recognition based on collaborative cooperation of multiple neural network models](), ****
-- Xiaohu Du, Jie Yu, Zibo Yi, Shasha Li, Jun Ma, Yusong Tan, and Qinbo Wu. [A Hybrid Adversarial Attack for Different Application Scenarios](), ****
-- Yongtao Tang, Jie Yu, Shasha Li, Bin Ji, Yusong Tan, Qingbo Wu. [Span Classification Based Model for Clinical Concept Extraction](), ****
-- Yijia Liu, Bin Ji, Jie Yu, Yusong Tan, Jun Ma, Qingbo Wu. [An Advanced ICD-9 Terminology Standardization Method Based on BERT and Text Similarity](), ****
-- Xiaohu Du, Zibo Yi, Shasha Li, Jun Ma, Jie Yu, Yusong Tan, and Qinbo Wu. [Generating More Effective and Imperceptible Adversarial Text Examples for Sentiment Classification](), ****
-- Yi Zibo, Jie Yu, Shasha Li, Yusong Tan, and Qingbo Wu. [Incremental Learning of GAN for Detecting Multiple Adversarial Attacks. In International Conference on Artificial Neural Networks](), ****
+- Bin Ji, Jie Yu, Shasha Li, Jun Ma, Qingbo Wu, Yusong Tan. [Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations](), **COLING**
+- Bin Ji, Shasha Li, Jie Yu, Jun Ma, Yusong Tan, Qingbo Wu, Huijun Liu, Yun Ji. [Research on Chinese medical named entity recognition based on collaborative cooperation of multiple neural network models](), **Journal of Biomedical Informatics**
+- Xiaohu Du, Jie Yu, Zibo Yi, Shasha Li, Jun Ma, Yusong Tan, and Qinbo Wu. [A Hybrid Adversarial Attack for Different Application Scenarios](), **Applied Sciences-Basel**
+- Yongtao Tang, Jie Yu, Shasha Li, Bin Ji, Yusong Tan, Qingbo Wu. [Span Classification Based Model for Clinical Concept Extraction](), **International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery**
+- Yijia Liu, Bin Ji, Jie Yu, Yusong Tan, Jun Ma, Qingbo Wu. [An Advanced ICD-9 Terminology Standardization Method Based on BERT and Text Similarity](), **International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery**
+- Xiaohu Du, Zibo Yi, Shasha Li, Jun Ma, Jie Yu, Yusong Tan, and Qinbo Wu. [Generating More Effective and Imperceptible Adversarial Text Examples for Sentiment Classification](), **International Conference on Artificial Intelligence and Security**
+- Yi Zibo, Jie Yu, Shasha Li, Yusong Tan, and Qingbo Wu. [Incremental Learning of GAN for Detecting Multiple Adversarial Attacks. In International Conference on Artificial Neural Networks](), **ICANN**
 - Jianling Li, Shiwen Yu, Shasha Li, Jie Yu. [Multi-classification of Theses to Disciplines Based on Metadata. Natural Language Processing and Chinese Computing](), **ICANN**
-- Bin Ji, Rui Liu, Shasha Li, Jie Yu, Qingbo Wu, Yusong Tan and Jiaju Wu. [A hybrid approach for named entity recognition in Chinese electronic medical record](), ****
-- Dongyang Liang, Shasha Li, Jie Yu, Bin Ji. [Design and Implementation of an XML Schema Based XML Data Editor](), ****
-- Dongyang Liang, Shasha Li, Jie Yu, Bin Ji. [Using KG to Choose the Research Supervisor for Postgraduate](), ****
-- Peng, Long & Guan, Fei & Perneel, Luc & Fayyad, Hasan & Timmerman, Martin. [Decentralized Multi-Robot Formation Control with Communication Delay and Asynchronous Clock](), ****
-- Bin Ji, Rui Liu, Shasha Li, Jintao Tang, Jie Yu, Qian Li, Weisang Xu. [A BiLSTM-CRF Method to Chinese Electronic Medical Record Named Entity Recognition](), ****
-- Zibo Yi, Shasha Li, Jie Yu, Yusong Tan, Qingbo Wu. [A Novel Misclassification Attack Against Black Box Neural Network Classifiers](), ****
-- Dongyang Liang, Shasha Li, Bin Ji, Zibo Yi, Jie Yu, Jianfeng Zhang, Yusong Tan, Qingbo Wu. [Research on Matrix Multiplication Based WeChat Group Tagging Technology](), ****
-- Zhaoyun Chen, Lei Luo, Wei Quan, Yang Shi, Jie Yu, Mei Wen and Chunyuan Zhang. [Multiple CNN-based Tasks Scheduling across Shared GPU Platform in Research and Development Scenarios](), ****
+- Bin Ji, Rui Liu, Shasha Li, Jie Yu, Qingbo Wu, Yusong Tan and Jiaju Wu. [A hybrid approach for named entity recognition in Chinese electronic medical record](), **BMC Medical Informatics and Decision Making**
+- Dongyang Liang, Shasha Li, Jie Yu, Bin Ji. [Design and Implementation of an XML Schema Based XML Data Editor](), **International Workshop on Computer Science and Engineering**
+- Dongyang Liang, Shasha Li, Jie Yu, Bin Ji. [Using KG to Choose the Research Supervisor for Postgraduate](), **International Conference on Computer Technology and Science**
+- Peng, Long & Guan, Fei & Perneel, Luc & Fayyad, Hasan & Timmerman, Martin. [Decentralized Multi-Robot Formation Control with Communication Delay and Asynchronous Clock](), **Journal of Intelligent & Robotic Systems**
+- Bin Ji, Rui Liu, Shasha Li, Jintao Tang, Jie Yu, Qian Li, Weisang Xu. [A BiLSTM-CRF Method to Chinese Electronic Medical Record Named Entity Recognition](), **ACAI 2018**
+- Zibo Yi, Shasha Li, Jie Yu, Yusong Tan, Qingbo Wu. [A Novel Misclassification Attack Against Black Box Neural Network Classifiers](), **International Conference on Semantics, Knowledge and Grids**
+- Dongyang Liang, Shasha Li, Bin Ji, Zibo Yi, Jie Yu, Jianfeng Zhang, Yusong Tan, Qingbo Wu. [Research on Matrix Multiplication Based WeChat Group Tagging Technology](), **AIKE 2018**
+- Zhaoyun Chen, Lei Luo, Wei Quan, Yang Shi, Jie Yu, Mei Wen and Chunyuan Zhang. [Multiple CNN-based Tasks Scheduling across Shared GPU Platform in Research and Development Scenarios](), **HPCC 2018**
 - Chengsen Ru, Jintao Tang, Shasha Li, and Ting Wang. [Syntactic Representation Learning for Open Information Extraction on Web](), **WWW 2017**
-- Guan, Fei & Peng, Long & Perneel, Luc & Fayyad, Hasan & Timmerman, Martin. [ A Design That Incorporates Adaptive Reservation into Mixed-Criticality Systems](), ****
+- Guan, Fei & Peng, Long & Perneel, Luc & Fayyad, Hasan & Timmerman, Martin. [ A Design That Incorporates Adaptive Reservation into Mixed-Criticality Systems](), **Scientific Programming**
 
 # 🎖 Honors and Awards
 - **2018** CHIP2018信息抽取竞赛，全国第二名
@@ -203,6 +203,14 @@ Research topics:
 - Robotics Software Frameworks  
 - Intelligent Control Systems  
 **Email**: penglong[at]nudt.edu.cn
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/wangjing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Jing Wang**  
+Jing Wang received her BS and Ph.D in Computer Science and Technology from the National University of Defense Technology (NUDT), China in 2008 and 2019, respectively. Currently she works as an assistant research fellow at NUDT.Her research focuses on operating system，software engineering.
+**Email**: wangjing[at]nudt.edu.cn
 </div>
 </div>
 
