@@ -84,6 +84,7 @@ Our goal is to research  novel OS architecture, key technologies for performance
 - Jing Yang, Bin Ji, Shasha Li, Jun Ma, Long Peng, Jie Y. [Dynamic Multi-View Fusion Mechanism For Chinese Relation Extraction](), ****
 
 ## 2022
+
 - Bin Ji, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Win-Win Cooperation: Bundling Sequence and Span Models for Named Entity Recognition](), ****
 - Jing Yang, Bin Ji, Shasha Li, Jun Ma, Jie Yu. [SciCN: A Scientific Dataset for Chinese Named Entity Recognition](), ****
 - Bin Ji, Shasha Li, Shaoduo Gan, Jie Yu, Jun Ma, Huijun Liu, Jing Yang. [Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes](), ****
@@ -98,6 +99,7 @@ Our goal is to research  novel OS architecture, key technologies for performance
 - Jie Yu, Bin Ji, Shasha Li, Jun Ma, Huijun Liu, Hao Xu. [S-NER: A Concise and Efficient Span-based Model for Named Entity Recognition](), ****
 
 ## 2021
+
 - Zibo Yi, Jie Yu, Yusong Tan, and Qingbo Wu. [Fine-tuning more stable neural text classifiers for defending word level adversarial attacks](), ****
 - Xiaohu Du, Jie Yu, Shasha Li, Zibo Yi, and Jun Ma. [Combating Word-level Adversarial Text with Robust Adversarial Training](), ****
 - Wuhang Lin, Jianling Li, Zibo Yi, Bin Ji, Shasha Li, Jie Yu, Jun Ma. [A Unifified Summarization Model with Semantic Guide and Keyword Coverage Mechanism](), ****
@@ -112,29 +114,24 @@ Our goal is to research  novel OS architecture, key technologies for performance
 - Jie Yu, Bin Ji, Shasha Li, Jun Ma, Huijun Liu. [面向中文医疗事件的联合抽取方法](), ****
 
 ## 2020 and former
-- . [Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations](), ****
-- . [Research on Chinese medical named entity recognition based on collaborative cooperation of multiple neural network models](), ****
-- . [A Hybrid Adversarial Attack for Different Application Scenarios](), ****
-- . [Span Classification Based Model for Clinical Concept Extraction](), ****
-- . [An Advanced ICD-9 Terminology Standardization Method Based on BERT and Text Similarity](), ****
-- . [Generating More Effective and Imperceptible Adversarial Text Examples for Sentiment Classification](), ****
-- . [Incremental Learning of GAN for Detecting Multiple Adversarial Attacks. In International Conference on Artificial Neural Networks](), ****
-- . [Multi-classification of Theses to Disciplines Based on Metadata. Natural Language Processing and Chinese Computing](), ****
-- . [A hybrid approach for named entity recognition in Chinese electronic medical record](), ****
-- . [Design and Implementation of an XML Schema Based XML Data Editor](), ****
-- . [Using KG to Choose the Research Supervisor for Postgraduate](), ****
-- . [Decentralized Multi-Robot Formation Control with Communication Delay and Asynchronous Clock](), ****
-- . [A BiLSTM-CRF Method to Chinese Electronic Medical Record Named Entity Recognition](), ****
-- . [A Novel Misclassification Attack Against Black Box Neural Network Classifiers](), ****
-- . [Research on Matrix Multiplication Based WeChat Group Tagging Technology](), ****
-- . [Multiple CNN-based Tasks Scheduling across Shared GPU Platform in Research and Development Scenarios](), ****
-- . [](), ****
-- . [](), ****
-- . [](), ****
-- . [](), ****
-- . [](), ****
-- . [](), ****
-
+- Bin Ji, Jie Yu, Shasha Li, Jun Ma, Qingbo Wu, Yusong Tan. [Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations](), ****
+- Bin Ji, Shasha Li, Jie Yu, Jun Ma, Yusong Tan, Qingbo Wu, Huijun Liu, Yun Ji. [Research on Chinese medical named entity recognition based on collaborative cooperation of multiple neural network models](), ****
+- Xiaohu Du, Jie Yu, Zibo Yi, Shasha Li, Jun Ma, Yusong Tan, and Qinbo Wu. [A Hybrid Adversarial Attack for Different Application Scenarios](), ****
+- Yongtao Tang, Jie Yu, Shasha Li, Bin Ji, Yusong Tan, Qingbo Wu. [Span Classification Based Model for Clinical Concept Extraction](), ****
+- Yijia Liu, Bin Ji, Jie Yu, Yusong Tan, Jun Ma, Qingbo Wu. [An Advanced ICD-9 Terminology Standardization Method Based on BERT and Text Similarity](), ****
+- Xiaohu Du, Zibo Yi, Shasha Li, Jun Ma, Jie Yu, Yusong Tan, and Qinbo Wu. [Generating More Effective and Imperceptible Adversarial Text Examples for Sentiment Classification](), ****
+- Yi Zibo, Jie Yu, Shasha Li, Yusong Tan, and Qingbo Wu. [Incremental Learning of GAN for Detecting Multiple Adversarial Attacks. In International Conference on Artificial Neural Networks](), ****
+- Jianling Li, Shiwen Yu, Shasha Li, Jie Yu. [Multi-classification of Theses to Disciplines Based on Metadata. Natural Language Processing and Chinese Computing](), **ICANN**
+- Bin Ji, Rui Liu, Shasha Li, Jie Yu, Qingbo Wu, Yusong Tan and Jiaju Wu. [A hybrid approach for named entity recognition in Chinese electronic medical record](), ****
+- Dongyang Liang, Shasha Li, Jie Yu, Bin Ji. [Design and Implementation of an XML Schema Based XML Data Editor](), ****
+- Dongyang Liang, Shasha Li, Jie Yu, Bin Ji. [Using KG to Choose the Research Supervisor for Postgraduate](), ****
+- Peng, Long & Guan, Fei & Perneel, Luc & Fayyad, Hasan & Timmerman, Martin. [Decentralized Multi-Robot Formation Control with Communication Delay and Asynchronous Clock](), ****
+- Bin Ji, Rui Liu, Shasha Li, Jintao Tang, Jie Yu, Qian Li, Weisang Xu. [A BiLSTM-CRF Method to Chinese Electronic Medical Record Named Entity Recognition](), ****
+- Zibo Yi, Shasha Li, Jie Yu, Yusong Tan, Qingbo Wu. [A Novel Misclassification Attack Against Black Box Neural Network Classifiers](), ****
+- Dongyang Liang, Shasha Li, Bin Ji, Zibo Yi, Jie Yu, Jianfeng Zhang, Yusong Tan, Qingbo Wu. [Research on Matrix Multiplication Based WeChat Group Tagging Technology](), ****
+- Zhaoyun Chen, Lei Luo, Wei Quan, Yang Shi, Jie Yu, Mei Wen and Chunyuan Zhang. [Multiple CNN-based Tasks Scheduling across Shared GPU Platform in Research and Development Scenarios](), ****
+- Chengsen Ru, Jintao Tang, Shasha Li, and Ting Wang. [Syntactic Representation Learning for Open Information Extraction on Web](), **WWW 2017**
+- Guan, Fei & Peng, Long & Perneel, Luc & Fayyad, Hasan & Timmerman, Martin. [ A Design That Incorporates Adaptive Reservation into Mixed-Criticality Systems](), ****
 
 # 🎖 Honors and Awards
 - **2018** CHIP2018信息抽取竞赛，全国第二名
@@ -209,62 +206,113 @@ Research topics:
 </div>
 </div>
 
-## 🎓 Postdoc
-- **Wenpeng Zhang** ｜ Artificial Intelligence ｜ zhangwenpeng[at]nudt.edu.cn
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/jb.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Bin Ji**  
+Bin Ji received his BS in Computer Science from Shandong University, China in 2014 and Ph.D in Computer Science from the National University of Defense Technology (NUDT), China in 2022. He was a Research Fellow at Institute of Data Science, National Universigy of Singapore from 2023 to 2024. Currently he works as an assistant research fellow at NUDT. 
+Research topics:
+- LLM Agent
+- LLM Agent Operating System
+- LLM Quantization 
+- Text Generation with Citations
+**Email**: jibin[at]nudt.edu.cn
+</div>
+</div>
 
-## 🎓 Ph.D. Students
+## 🎓 Postdoctoral Researchers
+- **Zhuo Li** ｜ Artificial Intelligence ｜ --
+
+---
+
+## 🥇 Ph.D. Students
 - **Huijun Liu** ｜ Artificial Intelligence Security ｜ liuhuijun[at]nudt.edu.cn  
 - **Yongtao Tang** ｜ Information Extraction ｜ tangyongtao18[at]nudt.edu.cn  
 - **Shezheng Song** ｜ Text Summarization ｜ ssz614[at]nudt.edu.cn  
-- **Xiaopeng Li** ｜ *[field not specified]*
+- **Xiaopeng Li** ｜ LLM Edit｜ xiaopengli[at]nudt.edu.cn  
+- **Xi Wang** ｜ LLM Jailbreak ｜ wx_23ndt[at]nudt.edu.cn  
 
-## 📘 Master Students
-- **Jing Yang** ｜ Information Extraction ｜ yangjing2036[at]126.com  
-- **Mengxue Du** ｜ Information Retrieval ｜ dumengxuenudt[at]nudt.edu.cn  
-- **Xi Deng** ｜ Text Assessment ｜ deng[at]nudt.edu.cn  
-- **Miaomiao Li** ｜ Artificial Intelligence Security ｜ limiaomiao21[at]nudt.edu.cn
+---
+
+## 🥈 Master Students
+- **Chuang Zhang** ｜ Operating System and Knowledge Graph ｜ --  
+- **Binrui Zeng** ｜ Artificial Intelligence for Operating System ｜ zengbinrui[at]nudt.edu.cn  
+- **Zhilong Liu** ｜ Artificial Intelligence for Operating System ｜ liuzhilong23[at]nudt.edu.cn  
+- **Xinran Hong** ｜ Artificial Intelligence for Operating System ｜ hongxinran[at]nudt.edu.cn  
+- **Zhuoyi Huang** ｜ Artificial Intelligence for Operating System ｜ 1586699654[at]qq.com  
+- **Jiahao Zhong** ｜ GPU Software Stack ｜ zhongjiahao2[at]nudt.edu.cn  
+- **Guojie Liu** ｜ Graph Retrieval-Augmented Generation ｜ liuguojie[at]nudt.edu.cn  
+- **Shuai Lu** ｜ Large Language Model ｜ lushuai[at]nudt.edu.cn  
+- **Yueyu Wang** ｜ Agent ｜ wangyueyu@nudt.edu.cn  
+- **Chenming Deng** ｜ System Software ｜ dengcm1201@163.com  
 
 ---
 
 ## 🎓 Graduated Students
 
 ### 🥇 Ph.D.
-- **2022 (2018.09 - 2022.06)**  
+- **2024 (2018.09 – 2024.06)**  
+  - **Huijun Liu** ｜ Postdoc @ National University of Singapore ｜ Artificial Intelligence Security ｜ liuhuijun[at]nudt.edu.cn  
+- **2022 (2018.09 – 2022.06)**  
   - **Bin Ji** ｜ Postdoc @ National University of Singapore ｜ Information Extraction ｜ jibin[at]nudt.edu.cn  
-- **2021 (2017.09 - 2021.12)**  
+- **2021 (2017.09 – 2021.12)**  
   - **Zibo Yi** ｜ Work @ Beijing ｜ Artificial Intelligence Security ｜ yizibo14[at]nudt.edu.cn  
   - **Shaoduo Gan** ｜ Work @ Beijing ｜ Distributed Machine Learning ｜ ganshaoduo[at]nudt.edu.cn  
 
 ### 🥈 Master
-- **2022 (2019.09 - 2022.06)**  
+- **2024 (2021.09 – 2024.06)**  
+  - **Miaomiao Li** ｜ XingWang ｜ Artificial Intelligence Security ｜ limiaomiao21[at]nudt.edu.cn  
+- **2023 (2020.09 – 2023.06)**  
+  - **Jing Yang** ｜ Huawei ｜ Information Extraction ｜ yangjing2036[at]126.com  
+  - **Xi Deng** ｜ -- ｜ Text Assessment ｜ deng[at]nudt.edu.cn  
+  - **Mengxue Du** ｜ -- ｜ Information Retrieval ｜ dumengxuenudt[at]nudt.edu.cn  
+- **2022 (2019.09 – 2022.06)**  
   - **Wuhang Lin** ｜ NetEase SSP Offer ｜ Text Summarization ｜ wuhanglin[at]nudt.edu.cn  
-- **2021 (2019.09 - 2021.12)**  
+- **2021 (2019.09 – 2021.12)**  
   - **Hao Xu** ｜ Work @ Guangdong ｜ Web Operating System ｜ xuhao19[at]nudt.edu.cn  
-- **2020 (2018.09 - 2021.06)**  
+- **2020 (2018.09 – 2021.06)**  
   - **Xiaohu Du** ｜ Ph.D. @ HUST ｜ Artificial Intelligence Security ｜ xhdu18[at]foxmail.com  
   - **Jianling Li** ｜ Ph.D. @ Tianjin University ｜ Text Summarization ｜ jianlingl[at]nudt.edu.cn  
   - **Yongtao Tang** ｜ Ph.D. @ NUDT ｜ Information Extraction ｜ tangyongtao18[at]nudt.edu.cn  
   - **Yijia Liu** ｜ Work @ Changsha Bank Head Office ｜ Information Extraction  
-- **2019 (2017.06 - 2019.12)**  
+- **2019 (2017.06 – 2019.12)**  
   - **Dongyang Liang** ｜ Work @ Zhejiang ｜ Sci & Tech Literature Mining ｜ liangdongyang10[at]yeah.net  
-- **2018 (2015.09 - 2018.06)**  
+- **2018 (2015.09 – 2018.06)**  
   - **Lu Si** ｜ Ph.D. @ Tsinghua University ｜ Big Data & Knowledge Graph ｜ lusi[at]ubuntukylin.com  
   - **Jie Lin** ｜ Work @ Sichuan ｜ Big Data & Knowledge Graph ｜ mr_lin0215[at]163.com  
-- **2017 (2014.09 - 2017.06)**  
+- **2017 (2014.09 – 2017.06)**  
   - **Shaoduo Gan** ｜ Ph.D. @ ETH Zurich ｜ Distributed Machine Learning ｜ ganshaoduo[at]nudt.edu.cn  
   - **Zibo Yi** ｜ Ph.D. @ NUDT ｜ Artificial Intelligence Security ｜ yizibo14[at]nudt.edu.cn  
   - **Qi Zhang** ｜ Work @ Guangdong ｜ Distributed Operating System  
-  - **Qintao Shen** ｜ Ph.D. @ Institute of Information Engineering, CAS ｜ System Security  
+  - **Qintao Shen** ｜ Ph.D. @ Institute of Information Engineering, CAS ｜ System Security
+
 
 # 🌏 Attend Conference
 
 ## 2024
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_bj.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In August 2024, some students from our research group attended the Chinese Information Processing Society Summer School held in Beijing, where they learned about the cutting-edge research on LLMs and shared their insights.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_jiaxin.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In December 2024, some students from our research group attended the Annual Conference of the Chinese Information Processing Society held in Jiaxing, Zhejiang.
+</div>
+</div>
+
 ## 2023
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2023chinasoft.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In December 2023, some students and teachers from our research group attended the China Software Conference held in Shanghai.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/conference_chendu_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-In 2024, TMG group held a mountain climbing spring outing at Heimi Peak, which also served as a graduation gathering for our senior students Liu Huijun and Li Miaomiao.
+In December 2023, some members of our research group attended the Frontier Technology Seminar on Large Language Models held in Chengdu.
 </div>
 </div>
 
