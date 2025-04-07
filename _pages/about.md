@@ -151,9 +151,11 @@ Our goal is to research  novel OS architecture, key technologies for performance
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/jack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Yu**  
-Jie Yu obtained BS and PHD from National University of Defense Technology (NUDT) in 2005 and 2010 supervised by Prof. Huowang Chen and Prof. Zhoujun Li. He was a Post-graduate Internships in National University of Singapore supervised by Prof. Chang Ee-Chien during 2008-2009. Currently, he is a professor and a vice director of the center of system software in NUDT.  
-He focuses on system software, including security and performance in AI (mostly on NLP) and OS (mostly on Linux and Android).  
-He has published more than 60 papers, including SIGCOMM, COLING, ICPP, SecureComm, ISPA etc.
+Jie Yu obtained BS and PHD from National University of Defense Technology (NUDT) in 2005 and 2010 supervised by Prof. Huowang Chen and Prof. Zhoujun Li. He was a Post-graduate Internships in National University of Singapore supervised by Prof. Chang Ee-Chien during 2008-2009. Currently, he is a professor in NUDT.
+He focuses on system software, including security and performance in AI (mostly on NLP) and OS (mostly on Linux and Android).
+He has published more than 60 papers, including SIGCOMM, AAAI, ICSE, COLING, ICPP, SecureComm, ISPA etc. 
+
+**Email**: yj@nudt.edu.cn
 </div>
 </div>
 
@@ -165,8 +167,9 @@ He is an associate research fellow in Software Engineering Research Center, NUDT
 - Operating systems (architecture, kernel, security, desktop)
 - Information security (access control, trust computing, DLP, recovery)
 - Software engineering (ecosystem, dependency management)  
-He has published over 30 papers and built many engineering systems on Linux, Windows, and embedded systems.  
-**Email**: majun[at]nudt.edu.cn
+He has published over 30 papers and built many engineering systems on Linux, Windows, and embedded systems.
+
+**Email**: majun@nudt.edu.cn
 </div>
 </div>
 
@@ -178,7 +181,8 @@ She was a post-graduate intern at MSRA supervised by Prof. Chin-Yew Lin (2008–
 Currently an associate professor in the School of Computer Science, NUDT.  
 Research interests: Natural Language Processing and Knowledge Graphs.  
 Published 40+ papers in ACL, COLING, TKDE, IPM, etc.  
-**Email**: shashali[at]nudt.edu.cn
+
+**Email**: shashali@nudt.edu.cn
 </div>
 </div>
 
@@ -188,7 +192,8 @@ Published 40+ papers in ACL, COLING, TKDE, IPM, etc.
 Received BS and Ph.D. in Computer Science and Technology from NUDT (2007, 2013).  
 Currently associate professor at NUDT.  
 Research: Desktop OS, Software Engineering, Troubleshooting.  
-**Email**: liuxiaodong[at]nudt.edu.cn
+
+**Email**: liuxiaodong@nudt.edu.cn
 </div>
 </div>
 
@@ -200,9 +205,10 @@ Currently assistant research fellow at NUDT.
 Research topics:
 - Real-time & Mobile OS  
 - Embedded Systems  
-- Robotics Software Frameworks  
+- Robotics Software Frameworks
 - Intelligent Control Systems  
-**Email**: penglong[at]nudt.edu.cn
+
+**Email**: penglong@nudt.edu.cn
 </div>
 </div>
 
@@ -210,7 +216,8 @@ Research topics:
 <div class='paper-box-text' markdown="1">
 **Jing Wang**  
 Jing Wang received her BS and Ph.D in Computer Science and Technology from the National University of Defense Technology (NUDT), China in 2008 and 2019, respectively. Currently she works as an assistant research fellow at NUDT.Her research focuses on operating system，software engineering.
-**Email**: wangjing[at]nudt.edu.cn
+
+**Email**: wangjing@nudt.edu.cn
 </div>
 </div>
 
@@ -223,7 +230,8 @@ Research topics:
 - LLM Agent Operating System
 - LLM Quantization 
 - Text Generation with Citations
-**Email**: jibin[at]nudt.edu.cn
+
+**Email**: jibin@nudt.edu.cn
 </div>
 </div>
 
@@ -233,25 +241,26 @@ Research topics:
 ---
 
 ## 🥇 Ph.D. Students
-- **Huijun Liu** ｜ Artificial Intelligence Security ｜ liuhuijun[at]nudt.edu.cn  
-- **Yongtao Tang** ｜ Information Extraction ｜ tangyongtao18[at]nudt.edu.cn  
-- **Shezheng Song** ｜ Text Summarization ｜ ssz614[at]nudt.edu.cn  
-- **Xiaopeng Li** ｜ LLM Edit｜ xiaopengli[at]nudt.edu.cn  
-- **Xi Wang** ｜ LLM Jailbreak ｜ wx_23ndt[at]nudt.edu.cn  
+- **Huijun Liu** ｜ Artificial Intelligence Security ｜ liuhuijun@nudt.edu.cn  
+- **Yongtao Tang** ｜ Information Extraction ｜ tangyongtao18@nudt.edu.cn  
+- **Shezheng Song** ｜ Text Summarization ｜ ssz614@nudt.edu.cn  
+- **Xiaopeng Li** ｜ LLM Edit｜ xiaopengli@nudt.edu.cn  
+- **Xi Wang** ｜ LLM Jailbreak ｜ wx_23ndt@nudt.edu.cn  
+- **Qianyue Li**｜Information Retrieval｜li_qianyue@nudt.edu.cn
 
 ---
 
 ## 🥈 Master Students
 - **Chuang Zhang** ｜ Operating System and Knowledge Graph ｜ --  
-- **Binrui Zeng** ｜ Artificial Intelligence for Operating System ｜ zengbinrui[at]nudt.edu.cn  
-- **Zhilong Liu** ｜ Artificial Intelligence for Operating System ｜ liuzhilong23[at]nudt.edu.cn  
-- **Xinran Hong** ｜ Artificial Intelligence for Operating System ｜ hongxinran[at]nudt.edu.cn  
-- **Zhuoyi Huang** ｜ Artificial Intelligence for Operating System ｜ 1586699654[at]qq.com  
-- **Jiahao Zhong** ｜ GPU Software Stack ｜ zhongjiahao2[at]nudt.edu.cn  
-- **Guojie Liu** ｜ Graph Retrieval-Augmented Generation ｜ liuguojie[at]nudt.edu.cn  
-- **Shuai Lu** ｜ Large Language Model ｜ lushuai[at]nudt.edu.cn  
+- **Binrui Zeng** ｜ Artificial Intelligence for Operating System ｜ zengbinrui@nudt.edu.cn  
+- **Zhilong Liu** ｜ Artificial Intelligence for Operating System ｜ liuzhilong23@nudt.edu.cn  
+- **Xinran Hong** ｜ Artificial Intelligence for Operating System ｜ hongxinran@nudt.edu.cn  
+- **Zhuoyi Huang** ｜ Artificial Intelligence for Operating System ｜ 1586699654@qq.com  
+- **Jiahao Zhong** ｜ GPU Software Stack ｜ zhongjiahao2@nudt.edu.cn  
+- **Guojie Liu** ｜ Graph Retrieval-Augmented Generation ｜ liuguojie@nudt.edu.cn  
+- **Shuai Lu** ｜ Large Language Model ｜ lushuai@nudt.edu.cn  
 - **Yueyu Wang** ｜ Agent ｜ wangyueyu@nudt.edu.cn  
-- **Chenming Deng** ｜ System Software ｜ dengcm1201@163.com  
+- **Chenming Deng** ｜ System Software ｜ dengchenming@nudt.edu.cn
 
 ---
 
@@ -259,37 +268,37 @@ Research topics:
 
 ### 🥇 Ph.D.
 - **2024 (2018.09 – 2024.06)**  
-  - **Huijun Liu** ｜ Postdoc @ National University of Singapore ｜ Artificial Intelligence Security ｜ liuhuijun[at]nudt.edu.cn  
+  - **Huijun Liu** ｜ Postdoc @ National University of Singapore ｜ Artificial Intelligence Security ｜ liuhuijun@nudt.edu.cn  
 - **2022 (2018.09 – 2022.06)**  
-  - **Bin Ji** ｜ Postdoc @ National University of Singapore ｜ Information Extraction ｜ jibin[at]nudt.edu.cn  
+  - **Bin Ji** ｜ Postdoc @ National University of Singapore ｜ Information Extraction ｜ jibin@nudt.edu.cn  
 - **2021 (2017.09 – 2021.12)**  
-  - **Zibo Yi** ｜ Work @ Beijing ｜ Artificial Intelligence Security ｜ yizibo14[at]nudt.edu.cn  
-  - **Shaoduo Gan** ｜ Work @ Beijing ｜ Distributed Machine Learning ｜ ganshaoduo[at]nudt.edu.cn  
+  - **Zibo Yi** ｜ Work @ Beijing ｜ Artificial Intelligence Security ｜ yizibo14@nudt.edu.cn  
+  - **Shaoduo Gan** ｜ Work @ Beijing ｜ Distributed Machine Learning ｜ ganshaoduo@nudt.edu.cn  
 
 ### 🥈 Master
 - **2024 (2021.09 – 2024.06)**  
-  - **Miaomiao Li** ｜ XingWang ｜ Artificial Intelligence Security ｜ limiaomiao21[at]nudt.edu.cn  
+  - **Miaomiao Li** ｜ XingWang ｜ Artificial Intelligence Security ｜ limiaomiao21@nudt.edu.cn  
 - **2023 (2020.09 – 2023.06)**  
-  - **Jing Yang** ｜ Huawei ｜ Information Extraction ｜ yangjing2036[at]126.com  
-  - **Xi Deng** ｜ -- ｜ Text Assessment ｜ deng[at]nudt.edu.cn  
-  - **Mengxue Du** ｜ -- ｜ Information Retrieval ｜ dumengxuenudt[at]nudt.edu.cn  
+  - **Jing Yang** ｜ Huawei ｜ Information Extraction ｜ yangjing2036@126.com  
+  - **Xi Deng** ｜ -- ｜ Text Assessment ｜ deng@nudt.edu.cn  
+  - **Mengxue Du** ｜ -- ｜ Information Retrieval ｜ dumengxuenudt@nudt.edu.cn  
 - **2022 (2019.09 – 2022.06)**  
-  - **Wuhang Lin** ｜ NetEase SSP Offer ｜ Text Summarization ｜ wuhanglin[at]nudt.edu.cn  
+  - **Wuhang Lin** ｜ NetEase SSP Offer ｜ Text Summarization ｜ wuhanglin@nudt.edu.cn  
 - **2021 (2019.09 – 2021.12)**  
-  - **Hao Xu** ｜ Work @ Guangdong ｜ Web Operating System ｜ xuhao19[at]nudt.edu.cn  
+  - **Hao Xu** ｜ Work @ Guangdong ｜ Web Operating System ｜ xuhao19@nudt.edu.cn  
 - **2020 (2018.09 – 2021.06)**  
-  - **Xiaohu Du** ｜ Ph.D. @ HUST ｜ Artificial Intelligence Security ｜ xhdu18[at]foxmail.com  
-  - **Jianling Li** ｜ Ph.D. @ Tianjin University ｜ Text Summarization ｜ jianlingl[at]nudt.edu.cn  
-  - **Yongtao Tang** ｜ Ph.D. @ NUDT ｜ Information Extraction ｜ tangyongtao18[at]nudt.edu.cn  
+  - **Xiaohu Du** ｜ Ph.D. @ HUST ｜ Artificial Intelligence Security ｜ xhdu18@foxmail.com  
+  - **Jianling Li** ｜ Ph.D. @ Tianjin University ｜ Text Summarization ｜ jianlingl@nudt.edu.cn  
+  - **Yongtao Tang** ｜ Ph.D. @ NUDT ｜ Information Extraction ｜ tangyongtao18@nudt.edu.cn  
   - **Yijia Liu** ｜ Work @ Changsha Bank Head Office ｜ Information Extraction  
 - **2019 (2017.06 – 2019.12)**  
-  - **Dongyang Liang** ｜ Work @ Zhejiang ｜ Sci & Tech Literature Mining ｜ liangdongyang10[at]yeah.net  
+  - **Dongyang Liang** ｜ Work @ Zhejiang ｜ Sci & Tech Literature Mining ｜ liangdongyang10@yeah.net  
 - **2018 (2015.09 – 2018.06)**  
-  - **Lu Si** ｜ Ph.D. @ Tsinghua University ｜ Big Data & Knowledge Graph ｜ lusi[at]ubuntukylin.com  
-  - **Jie Lin** ｜ Work @ Sichuan ｜ Big Data & Knowledge Graph ｜ mr_lin0215[at]163.com  
+  - **Lu Si** ｜ Ph.D. @ Tsinghua University ｜ Big Data & Knowledge Graph ｜ lusi@ubuntukylin.com  
+  - **Jie Lin** ｜ Work @ Sichuan ｜ Big Data & Knowledge Graph ｜ mr_lin0215@163.com  
 - **2017 (2014.09 – 2017.06)**  
-  - **Shaoduo Gan** ｜ Ph.D. @ ETH Zurich ｜ Distributed Machine Learning ｜ ganshaoduo[at]nudt.edu.cn  
-  - **Zibo Yi** ｜ Ph.D. @ NUDT ｜ Artificial Intelligence Security ｜ yizibo14[at]nudt.edu.cn  
+  - **Shaoduo Gan** ｜ Ph.D. @ ETH Zurich ｜ Distributed Machine Learning ｜ ganshaoduo@nudt.edu.cn  
+  - **Zibo Yi** ｜ Ph.D. @ NUDT ｜ Artificial Intelligence Security ｜ yizibo14@nudt.edu.cn  
   - **Qi Zhang** ｜ Work @ Guangdong ｜ Distributed Operating System  
   - **Qintao Shen** ｜ Ph.D. @ Institute of Information Engineering, CAS ｜ System Security
 
