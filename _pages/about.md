@@ -70,18 +70,30 @@ Our goal is to research  novel OS architecture, key technologies for performance
 [//]: # (</div>)
 ## 2025
 
+- Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, [See-Kiong Ng. Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599). **AAAI**.
+- Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, Shangwen Wang, Xinran Hong, Yongtao Tang. [LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment](https://arxiv.org/abs/2412.18135), **IJCNN**
+- Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [Model Editing for LLMs4Code: How Far are We?](https://arxiv.org/abs/2411.06638) **ICSE**
+- Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI 2025**
+
 ## 2024
 
-## 2023
+- Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma, Jie Yu. [Pmet: Precise model editing in a transformer](https://ojs.aaai.org/index.php/AAAI/article/view/29818), **AAAI**
+- Shezheng Song, Shan Zhao, Shasha Li, Chengyu Wang, Tianwei Yan, Xiaoguang Mao, Meng Wang. [A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking](https://ojs.aaai.org/index.php/AAAI/article/view/29867), **AAAI**
+- Mingzhe Du, Anh Tuan Luu, Bin Ji, See-Kiong Ng. [From Static to Dynamic: Knowledge Metabolism for Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/30564). **AAAI**.
+- Xiaohu Du, Ming Wen, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin. [Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning](https://aclanthology.org/2024.findings-acl.625/). **ACL(Findings)**.
+- Mingzhe Du, Anh Tuan Luu, Bin Ji, Qian Liu, See-Kiong Ng. [Mercury: A Code Efficiency Benchmark for Code Large Language Models](https://neurips.cc/virtual/2024/poster/97452). **NeurIPS**.
+- Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Miaomiao Li, Xi Wang. [Offline Textual Adversarial Attacks against Large Language Models](https://ieeexplore.ieee.org/document/10650921). **IJCNN**.
+- Bin Ji, Huijun Liu, Mingzhe Du, See-Kiong Ng. [Chain-of-Thought Improves Text Generation with Citations in Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29794). **AAAI**.
 
-- Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma, Jie Yu. [Pmet: Precise model editing in a transformer](https://ojs.aaai.org/index.php/AAAI/article/view/29818), **AAAI 2024**
-- Shezheng Song, Shan Zhao, Shasha Li, Chengyu Wang, Tianwei Yan, Xiaoguang Mao, Meng Wang. [A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking](https://ojs.aaai.org/index.php/AAAI/article/view/29867), **AAAI 2024**
+## 2023
 - Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Zibo Yi, Mengxue Du, Miaomiao Li, Jie Liu, Zeyao Mo. [A More Context-aware Approach for Textual Adversarial Attacks using Probability Difference-guided Beam Search](), **TKDE**
 - Mengxue Du, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Miaomiao Li, Bin Ji. [DADR: A Denoising Approach for Dense Retrieval ModelTraining](), **APWeb-WAIM**
 - Xi Deng, Shasha Li, Jie Yu, Jun Ma. [HM-Transformer: Hierarchical Multi-modalTransformer for Long Document Image Understanding](), **APWeb-WAIM**
 - Miaomiao Li, Jie Yu, Jun Ma, Shasha Li, Huijun Liu, Mengxue Du. [QAE: A Hard-label Textual Attack Considering the Comprehensive Quality of Adversarial Examples](), **NLPCC**
 - Yingwei Ma, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong, Xiangke Liao. [MulCS: Towards a Unified Deep Representation for Multilingual Code Search](), **SANER**
 - Jing Yang, Bin Ji, Shasha Li, Jun Ma, Long Peng, Jie Y. [Dynamic Multi-View Fusion Mechanism For Chinese Relation Extraction](), **PAKDD**
+- Xintong Zhang, Shasha Li, Bin Ji, Ting Wang. [Learning Well-Separated and Representative Prototypes for Few-Shot Event Detection](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_23). NLPCC 
+- Yi Bin, Wenhao Shi, Bin Ji, Jipeng Zhang, Yujuan Ding, Yang Yang. [Non-Autoregressive Sentence Ordering](https://aclanthology.org/2023.findings-emnlp.277/). EMNLP (Findings) 2023.
 
 ## 2022
 
