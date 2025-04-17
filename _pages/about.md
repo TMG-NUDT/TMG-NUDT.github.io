@@ -84,6 +84,7 @@ Our goal is to research  novel OS architecture, key technologies for performance
 - Mingzhe Du, Anh Tuan Luu, Bin Ji, Qian Liu, See-Kiong Ng. [Mercury: A Code Efficiency Benchmark for Code Large Language Models](https://neurips.cc/virtual/2024/poster/97452). **NeurIPS**.
 - Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Miaomiao Li, Xi Wang. [Offline Textual Adversarial Attacks against Large Language Models](https://ieeexplore.ieee.org/document/10650921). **IJCNN**.
 - Bin Ji, Huijun Liu, Mingzhe Du, See-Kiong Ng. [Chain-of-Thought Improves Text Generation with Citations in Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29794). **AAAI**.
+- Jie Yu , Feilong Bao , NYIMA Tash, Luxiang Guo, Yongtao Tang, Shasha Li,Si Zheng, Xiaodong  Liu, Jun Ma, Zhuo Li, Yiqing Wang , Jianfeng Li. [基于通用大模型的民族语言大模型构建技术]()，**中文信息学报（CCF-T1）**
 
 ## 2023
 - Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Zibo Yi, Mengxue Du, Miaomiao Li, Jie Liu, Zeyao Mo. [A More Context-aware Approach for Textual Adversarial Attacks using Probability Difference-guided Beam Search](), **TKDE**
@@ -273,6 +274,7 @@ Research topics:
 - **Shuai Lu** ｜ Large Language Model ｜ lushuai@nudt.edu.cn  
 - **Yueyu Wang** ｜ Agent ｜ wangyueyu@nudt.edu.cn  
 - **Chenming Deng** ｜ System Software ｜ dengchenming@nudt.edu.cn
+- **Wei Li** ｜ Controllable Text Generate ｜ liweil@nudt.edu.cn
 
 ---
 
