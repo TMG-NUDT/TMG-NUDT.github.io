@@ -73,7 +73,7 @@ Our goal is to research  novel OS architecture, key technologies for performance
 - Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, [See-Kiong Ng. Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599). **AAAI**.
 - Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, Shangwen Wang, Xinran Hong, Yongtao Tang. [LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment](https://arxiv.org/abs/2412.18135), **IJCNN**
 - Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [Model Editing for LLMs4Code: How Far are We?](https://arxiv.org/abs/2411.06638) **ICSE**
-- Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI 2025**
+- Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI**
 
 ## 2024
 
@@ -345,10 +345,27 @@ In December 2023, some members of our research group attended the Frontier Techn
 </div>
 </div>
 
+## 2021
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2021_3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In May 2021, some members of our research group went to Beijing to attend the 116th session of the ADL (Advanced Deep Learning) Bootcamp.
+</div>
+</div>
 
 # 💻 Entertainment
 
 ## 2025
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/spring_2025_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In 2025, TMG group held a spring outing activity.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/spring_2025_2.jpg' alt="sym" width="100%"></div></div>
+</div>
+
 
 ## 2024
 
@@ -359,3 +376,30 @@ In 2024, TMG group held a mountain climbing spring outing at Heimi Peak, which a
 </div>
 
 ## 2023
+
+## 2022
+
+## 2021
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2021_6.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In 2021, the research group organized an activity, and everyone spent a happy and joyful day together.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2021_2.jpg' alt="sym" width="100%"></div></div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2021_4.jpg' alt="sym" width="100%"></div></div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2021_1.jpg' alt="sym" width="100%"></div></div>
+</div>
+
+## 2020
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2020.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In 2020, some members of our research group went to Nanchang to attend the CCKS20 conference and visited some local historical sites and scenic spots.
+</div>
+</div>
