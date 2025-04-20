@@ -254,7 +254,6 @@ Research topics:
 ---
 
 ## 🥇 Ph.D. Students
-- **Huijun Liu** ｜ Artificial Intelligence Security ｜ liuhuijun@nudt.edu.cn  
 - **Yongtao Tang** ｜ Information Extraction ｜ tangyongtao18@nudt.edu.cn  
 - **Shezheng Song** ｜ Text Summarization ｜ ssz614@nudt.edu.cn  
 - **Xiaopeng Li** ｜ LLM Edit｜ xiaopengli@nudt.edu.cn  
