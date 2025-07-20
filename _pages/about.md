@@ -74,6 +74,12 @@ Our goal is to research  novel OS architecture, key technologies for performance
 - Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, Shangwen Wang, Xinran Hong, Yongtao Tang. [LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment](https://arxiv.org/abs/2412.18135), **IJCNN**
 - Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [Model Editing for LLMs4Code: How Far are We?](https://arxiv.org/abs/2411.06638) **ICSE**
 - Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI**
+- Xiaopeng Li, Shasha Li, Shangwen Wang, Shezheng Song, Bin Ji, Huijun Liu, Jun Ma, Jie Yu, [Identifying Knowledge Editing Types in Large Language Models](https://arxiv.org/abs/2409.19663), **KDD 2025**
+- Luxiang Guo, Yueyu Wang，Qianyue Li,Shasha Li, Xiaodong Liu, Bin Ji and Jie Yu.[大语言模型智能体操作系统研究综述]()**（计算机科学 CCF-T2）2025**
+- Mingzhe Du, Anh Tuan Luu, Bin Ji, Xiaobao Wu, Yuhao QING, Dong HUANG, Terry Yue Zhuo, Qian Liu, See-Kiong Ng. [CodeArena: A Collective Evaluation Platform for LLM Code Generation](https://arxiv.org/abs/2503.01295). **Software Engineering 2025**.
+- Mingzhe Du, Anh Tuan Luu, Xiaobao Wu, Yichong Huang, Yue Liu, Dong HUANG, Huijun Liu, Bin Ji, Jie M. Zhang, See-Kiong Ng. [Collective Bias Mitigation via Model Routing and Collaboration](https://openreview.net/forum?id=YWJYJduVej), **ICML 2025 workshop**.
+- 纪斌, 刘晓东, 彭龙. [大模型时代智能操作系统现状与展望](), **CCCF-计算, 1(3) 2025**
+-  Zhang Ying, Lyu Chen, Chang Lu, Hong Yang, Ji Bin, Wei Ling-Yun. [Insights into the Opportunities and Development of Intelligent Healthcare: A Systematic Review of Automated ICD Coding Models Using the MIMIC Dataset]() **Digital Health 2025**
 
 ## 2024
 
@@ -259,6 +265,7 @@ Research topics:
 - **Xiaopeng Li** ｜ LLM Edit｜ xiaopengli@nudt.edu.cn  
 - **Xi Wang** ｜ LLM Jailbreak ｜ wx_23ndt@nudt.edu.cn  
 - **Qianyue Li**｜Information Retrieval｜li_qianyue@nudt.edu.cn
+- **Luxiang Guo** ｜ Agent ｜ lxg@nudt.edu.cn
 
 ---
 
@@ -274,6 +281,7 @@ Research topics:
 - **Yueyu Wang** ｜ Agent ｜ wangyueyu@nudt.edu.cn  
 - **Chenming Deng** ｜ System Software ｜ dengchenming@nudt.edu.cn
 - **Wei Li** ｜ Controllable Text Generate ｜ liweil@nudt.edu.cn
+- **Qingxiao Zhang** | Large Language Model Inference | zhangqxnudt@nudt.ecu.cn
 
 ---
 
