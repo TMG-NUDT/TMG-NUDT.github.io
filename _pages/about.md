@@ -72,7 +72,7 @@ The TMG research group is a vibrant and innovative team dedicated to advancing t
 - Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI**
 - Xiaopeng Li, Shasha Li, Shangwen Wang, Shezheng Song, Bin Ji, Huijun Liu, Jun Ma, Jie Yu, [Identifying Knowledge Editing Types in Large Language Models](https://arxiv.org/abs/2409.19663), **KDD**
 - Luxiang Guo, Yueyu Wang，Qianyue Li,Shasha Li, Xiaodong Liu, Bin Ji and Jie Yu.[大语言模型智能体操作系统研究综述]()**（计算机科学 CCF-T2**）
-- Mingzhe Du, Anh Tuan Luu, Bin Ji, Xiaobao Wu, Yuhao QING, Dong HUANG, Terry Yue Zhuo, Qian Liu, See-Kiong Ng. [CodeArena: A Collective Evaluation Platform for LLM Code Generation](https://arxiv.org/abs/2503.01295). **Software Engineering**.
+- Mingzhe Du, Anh Tuan Luu, Bin Ji, Xiaobao Wu, Yuhao QING, Dong HUANG, Terry Yue Zhuo, Qian Liu, See-Kiong Ng. [CodeArena: A Collective Evaluation Platform for LLM Code Generation](https://arxiv.org/abs/2503.01295). **ACL 2025 System Demonstration Track**.
 - Mingzhe Du, Anh Tuan Luu, Xiaobao Wu, Yichong Huang, Yue Liu, Dong HUANG, Huijun Liu, Bin Ji, Jie M. Zhang, See-Kiong Ng. [Collective Bias Mitigation via Model Routing and Collaboration](https://openreview.net/forum?id=YWJYJduVej), **ICML workshop**.
 - 纪斌, 刘晓东, 彭龙. [大模型时代智能操作系统现状与展望](), **CCCF-计算, 1(3)**
 -  Zhang Ying, Lyu Chen, Chang Lu, Hong Yang, Ji Bin, Wei Ling-Yun. [Insights into the Opportunities and Development of Intelligent Healthcare: A Systematic Review of Automated ICD Coding Models Using the MIMIC Dataset]() **Digital Health**
