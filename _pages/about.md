@@ -270,9 +270,9 @@ Research topics:
 
 ## 🥈 Master Students
 - **Binrui Zeng** ｜ LLM Compression ｜ zengbinrui@nudt.edu.cn  
-- **Xuan Xie** | LLM Compression |
-- **Ye Zhong** | LLM Compression |
-- **Jiacheng Jie** | LLM-Powered Agent | 
+- **Xuan Xie** ｜ LLM Compression ｜
+- **Ye Zhong** ｜LLM Compression ｜
+- **Jiacheng Jie** ｜ LLM-Powered Agent ｜ 
 - **Wei Li** ｜ LLM Fine-tuning ｜ liweil@nudt.edu.cn
 - **Qingxiao Zhang** | LLM Inference Acceleration | zhangqxnudt@nudt.ecu.cn
 - **Zhilong Liu** ｜ Next-generation OS｜ liuzhilong23@nudt.edu.cn  
