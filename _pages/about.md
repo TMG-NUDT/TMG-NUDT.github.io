@@ -242,7 +242,7 @@ Jing Wang received her BS and Ph.D in Computer Science and Technology from the N
 Bin Ji received his BS in Computer Science from Shandong University, China, in 2014 and his Ph.D in Computer Science from the National University of Defense Technology (NUDT), China, in 2022. He was a Research Fellow at the Institute of Data Science, National University of Singapore, from 2023 to 2024. Currentl,y he works as an assistant research fellow at NUDT. 
 Research topics:
 - LLM-Powered Agent
-- LLM Agent OS
+- LLM-Powered Agent OS
 - LLM Compression 
 - Text Generation with Citations
 
