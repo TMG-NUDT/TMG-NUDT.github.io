@@ -17,27 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-The research group TMG is a comprehensive research group studying state-of-the-art artificial intelligence technologies, novel operating systems, and intelligent software systems. The group is established by Prof. Jie Yu, and is funded by National Natural Science Foundation of China, National Key Research and Development Program, Equipment Preliminary Research Project, National Nuclear High Foundation Key Project, and Hunan Provincial Natural Science Foundation.
-Our goal is to research  novel OS architecture, key technologies for performance optimization and security defense of intelligent systems and key technologies for large language models (quantization, security, editing), and multimodality.
+The TMG research group is a vibrant and innovative team dedicated to advancing the frontiers of artificial intelligence, next-generation operating systems, and intelligent system software. Founded by Professor Jie Yu, director of the Domestic Basic Software Engineering Research Center at the College of Computer Science and Technology, National University of Defense Technology (NUDT), TMG brings together passionate researchers, industry experts, and talented students to drive groundbreaking discoveries and real-world applications in emerging technologies.
 
 # 🔬 Research Areas
 
-## 🖥️ Novel Operating System
+## 🖥️ Next-generation Operating System
+- AIOS / LLM Agent OS
 - RISC-V oriented OS architecture design  
-- Domestic platforms oriented compatible runtime environment construction  
-- Kernel  
-- Runtime  
+- Mobile OS     
 
-## 🤖 LLM
-- Model Edit  
-- Jailbreak  
-- Quantization  
-- Retrieval-Augmented Generation  
-- Agent  
-- Edge-Side  
-
-## 🧠 Multi-Modality
-- Sentiment Analysis 
+## 🤖 Large Language Model
+- LLM-Powered Agent
+- LLM Compression
+- LLM Knowledge Edit
+- LLM Security
+- LLM Fine-tuning
+- LLM Inference Acceleration
+- Multi-modal LLM 
 
 
 # 📝 Publications
@@ -70,16 +66,16 @@ Our goal is to research  novel OS architecture, key technologies for performance
 [//]: # (</div>)
 ## 2025
 
-- Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, [See-Kiong Ng. Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599). **AAAI**.
+- Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, See-Kiong Ng. [Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599). **AAAI**.
 - Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, Shangwen Wang, Xinran Hong, Yongtao Tang. [LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment](https://arxiv.org/abs/2412.18135), **IJCNN**
 - Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [Model Editing for LLMs4Code: How Far are We?](https://arxiv.org/abs/2411.06638) **ICSE**
 - Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI**
-- Xiaopeng Li, Shasha Li, Shangwen Wang, Shezheng Song, Bin Ji, Huijun Liu, Jun Ma, Jie Yu, [Identifying Knowledge Editing Types in Large Language Models](https://arxiv.org/abs/2409.19663), **KDD 2025**
-- Luxiang Guo, Yueyu Wang，Qianyue Li,Shasha Li, Xiaodong Liu, Bin Ji and Jie Yu.[大语言模型智能体操作系统研究综述]()**（计算机科学 CCF-T2）2025**
-- Mingzhe Du, Anh Tuan Luu, Bin Ji, Xiaobao Wu, Yuhao QING, Dong HUANG, Terry Yue Zhuo, Qian Liu, See-Kiong Ng. [CodeArena: A Collective Evaluation Platform for LLM Code Generation](https://arxiv.org/abs/2503.01295). **Software Engineering 2025**.
-- Mingzhe Du, Anh Tuan Luu, Xiaobao Wu, Yichong Huang, Yue Liu, Dong HUANG, Huijun Liu, Bin Ji, Jie M. Zhang, See-Kiong Ng. [Collective Bias Mitigation via Model Routing and Collaboration](https://openreview.net/forum?id=YWJYJduVej), **ICML 2025 workshop**.
-- 纪斌, 刘晓东, 彭龙. [大模型时代智能操作系统现状与展望](), **CCCF-计算, 1(3) 2025**
--  Zhang Ying, Lyu Chen, Chang Lu, Hong Yang, Ji Bin, Wei Ling-Yun. [Insights into the Opportunities and Development of Intelligent Healthcare: A Systematic Review of Automated ICD Coding Models Using the MIMIC Dataset]() **Digital Health 2025**
+- Xiaopeng Li, Shasha Li, Shangwen Wang, Shezheng Song, Bin Ji, Huijun Liu, Jun Ma, Jie Yu, [Identifying Knowledge Editing Types in Large Language Models](https://arxiv.org/abs/2409.19663), **KDD**
+- Luxiang Guo, Yueyu Wang，Qianyue Li,Shasha Li, Xiaodong Liu, Bin Ji and Jie Yu.[大语言模型智能体操作系统研究综述]()**（计算机科学 CCF-T2**）
+- Mingzhe Du, Anh Tuan Luu, Bin Ji, Xiaobao Wu, Yuhao QING, Dong HUANG, Terry Yue Zhuo, Qian Liu, See-Kiong Ng. [CodeArena: A Collective Evaluation Platform for LLM Code Generation](https://arxiv.org/abs/2503.01295). **Software Engineering**.
+- Mingzhe Du, Anh Tuan Luu, Xiaobao Wu, Yichong Huang, Yue Liu, Dong HUANG, Huijun Liu, Bin Ji, Jie M. Zhang, See-Kiong Ng. [Collective Bias Mitigation via Model Routing and Collaboration](https://openreview.net/forum?id=YWJYJduVej), **ICML workshop**.
+- 纪斌, 刘晓东, 彭龙. [大模型时代智能操作系统现状与展望](), **CCCF-计算, 1(3)**
+-  Zhang Ying, Lyu Chen, Chang Lu, Hong Yang, Ji Bin, Wei Ling-Yun. [Insights into the Opportunities and Development of Intelligent Healthcare: A Systematic Review of Automated ICD Coding Models Using the MIMIC Dataset]() **Digital Health**
 
 ## 2024
 
@@ -90,11 +86,11 @@ Our goal is to research  novel OS architecture, key technologies for performance
 - Mingzhe Du, Anh Tuan Luu, Bin Ji, Qian Liu, See-Kiong Ng. [Mercury: A Code Efficiency Benchmark for Code Large Language Models](https://neurips.cc/virtual/2024/poster/97452). **NeurIPS**.
 - Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Miaomiao Li, Xi Wang. [Offline Textual Adversarial Attacks against Large Language Models](https://ieeexplore.ieee.org/document/10650921). **IJCNN**.
 - Bin Ji, Huijun Liu, Mingzhe Du, See-Kiong Ng. [Chain-of-Thought Improves Text Generation with Citations in Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29794). **AAAI**.
-- Jie Yu , Feilong Bao , NYIMA Tash, Luxiang Guo, Yongtao Tang, Shasha Li,Si Zheng, Xiaodong  Liu, Jun Ma, Zhuo Li, Yiqing Wang , Jianfeng Li. [基于通用大模型的民族语言大模型构建技术]()，**中文信息学报（CCF-T1）**
+- Jie Yu, Feilong Bao, NYIMA Tash, Luxiang Guo, Yongtao Tang, Shasha Li, Si Zheng, Xiaodong  Liu, Jun Ma, Zhuo Li, Yiqing Wang, Jianfeng Li. [基于通用大模型的民族语言大模型构建技术]()，**中文信息学报（CCF-T1）**
 
 ## 2023
 - Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Zibo Yi, Mengxue Du, Miaomiao Li, Jie Liu, Zeyao Mo. [A More Context-aware Approach for Textual Adversarial Attacks using Probability Difference-guided Beam Search](), **TKDE**
-- Mengxue Du, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Miaomiao Li, Bin Ji. [DADR: A Denoising Approach for Dense Retrieval ModelTraining](), **APWeb-WAIM**
+- Mengxue Du, Shasha Li, Jie Yu, Jun Ma, Huijun Liu, Miaomiao Li, Bin Ji. [DADR: A Denoising Approach for Dense Retrieval Model Training](), **APWeb-WAIM**
 - Xi Deng, Shasha Li, Jie Yu, Jun Ma. [HM-Transformer: Hierarchical Multi-modalTransformer for Long Document Image Understanding](), **APWeb-WAIM**
 - Miaomiao Li, Jie Yu, Jun Ma, Shasha Li, Huijun Liu, Mengxue Du. [QAE: A Hard-label Textual Attack Considering the Comprehensive Quality of Adversarial Examples](), **NLPCC**
 - Yingwei Ma, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong, Xiangke Liao. [MulCS: Towards a Unified Deep Representation for Multilingual Code Search](), **SANER**
@@ -119,9 +115,9 @@ Our goal is to research  novel OS architecture, key technologies for performance
 
 ## 2021
 
-- Zibo Yi, Jie Yu, Yusong Tan, and Qingbo Wu. [Fine-tuning more stable neural text classifiers for defending word level adversarial attacks](), **Applied Intelligence**
+- Zibo Yi, Jie Yu, Yusong Tan, and Qingbo Wu. [Fine-tuning more stable neural text classifiers for defending word-level adversarial attacks](), **Applied Intelligence**
 - Xiaohu Du, Jie Yu, Shasha Li, Zibo Yi, and Jun Ma. [Combating Word-level Adversarial Text with Robust Adversarial Training](), **IJCNN**
-- Wuhang Lin, Jianling Li, Zibo Yi, Bin Ji, Shasha Li, Jie Yu, Jun Ma. [A Unifified Summarization Model with Semantic Guide and Keyword Coverage Mechanism](), **ICANN**
+- Wuhang Lin, Jianling Li, Zibo Yi, Bin Ji, Shasha Li, Jie Yu, Jun Ma. [A Unified Summarization Model with Semantic Guide and Keyword Coverage Mechanism](), **ICANN**
 - Zibo Yi, Jie Yu, Yusong Tan, Qingbo Wu. [A Multimodal Adversarial Attack Framework Based on Local and Random Search Algorithms](), **International Journal of Computational Intelligence Systems**
 - Hao Xu, Long Peng, Tao Mao, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [B2GPAPI: an Efficient Framework Providing C/C++ Runtime in Web-based OS](), **WCSE 2021**
 - Hao Xu, Long Peng, Tao Mao, Wenjie Li, Jun Ma, Shasha Li, Jie Yu, Qingbo Wu. [A Framework to Run C/C++ Application on Web-based OS](), **ICACTE**
@@ -170,7 +166,7 @@ Our goal is to research  novel OS architecture, key technologies for performance
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/jack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Yu**  
-Jie Yu obtained BS and PHD from National University of Defense Technology (NUDT) in 2005 and 2010 supervised by Prof. Huowang Chen and Prof. Zhoujun Li. He was a Post-graduate Internships in National University of Singapore supervised by Prof. Chang Ee-Chien during 2008-2009. Currently, he is a professor in NUDT.
+Jie Yu obtained his BS and PHD from the National University of Defense Technology (NUDT) in 2005 and 2010, supervised by Prof. Huowang Chen and Prof. Zhoujun Li. He was a Post-graduate intern at the National University of Singapore, supervised by Prof. Chang Ee-Chien during 2008-2009. Currently, he is a professor at NUDT.
 He focuses on system software, including security and performance in AI (mostly on NLP) and OS (mostly on Linux and Android).
 He has published more than 60 papers, including SIGCOMM, AAAI, ICSE, COLING, ICPP, SecureComm, ISPA etc. 
 
@@ -181,7 +177,7 @@ He has published more than 60 papers, including SIGCOMM, AAAI, ICSE, COLING, ICP
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/marklin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Jun Ma**  
-Jun Ma obtained his BS and PHD from NUDT in 2005 and 2011 supervised by Prof. Zhiying Wang.  
+Jun Ma obtained his BS and PHD from NUDT in 2005 and 2011, supervised by Prof. Zhiying Wang.  
 He is an associate research fellow in Software Engineering Research Center, NUDT. His research focuses on:
 - Operating systems (architecture, kernel, security, desktop)
 - Information security (access control, trust computing, DLP, recovery)
@@ -195,7 +191,7 @@ He has published over 30 papers and built many engineering systems on Linux, Win
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/shasha.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Shasha Li**  
-Shasha Li obtained BS and PHD from NUDT in 2005 and 2011 supervised by Prof. Huowang Chen and Prof. Zhoujun Li.  
+Shasha Li obtained her BS and PHD from NUDT in 2005 and 2011, supervised by Prof. Huowang Chen and Prof. Zhoujun Li.  
 She was a post-graduate intern at MSRA supervised by Prof. Chin-Yew Lin (2008–2011).  
 Currently an associate professor in the School of Computer Science, NUDT.  
 Research interests: Natural Language Processing and Knowledge Graphs.  
@@ -209,7 +205,7 @@ Published 40+ papers in ACL, COLING, TKDE, IPM, etc.
 <div class='paper-box-text' markdown="1">
 **Xiaodong Liu**  
 Received BS and Ph.D. in Computer Science and Technology from NUDT (2007, 2013).  
-Currently associate professor at NUDT.  
+Currently an associate professor at NUDT.  
 Research: Desktop OS, Software Engineering, Troubleshooting.  
 
 **Email**: liuxiaodong@nudt.edu.cn
@@ -220,7 +216,7 @@ Research: Desktop OS, Software Engineering, Troubleshooting.
 <div class='paper-box-text' markdown="1">
 **Long Peng**  
 BS & MS from NUDT (2009, 2012), Ph.D. from Vrije Universiteit Brussel (2017).  
-Currently assistant research fellow at NUDT.  
+Currently an assistant research fellow at NUDT.  
 Research topics:
 - Real-time & Mobile OS  
 - Embedded Systems  
@@ -243,11 +239,11 @@ Jing Wang received her BS and Ph.D in Computer Science and Technology from the N
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/jb.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Bin Ji**  
-Bin Ji received his BS in Computer Science from Shandong University, China in 2014 and Ph.D in Computer Science from the National University of Defense Technology (NUDT), China in 2022. He was a Research Fellow at Institute of Data Science, National Universigy of Singapore from 2023 to 2024. Currently he works as an assistant research fellow at NUDT. 
+Bin Ji received his BS in Computer Science from Shandong University, China, in 2014 and his Ph.D in Computer Science from the National University of Defense Technology (NUDT), China, in 2022. He was a Research Fellow at the Institute of Data Science, National University of Singapore, from 2023 to 2024. Currentl,y he works as an assistant research fellow at NUDT. 
 Research topics:
-- LLM Agent
-- LLM Agent Operating System
-- LLM Quantization 
+- LLM-Powered Agent
+- LLM Agent OS
+- LLM Compression 
 - Text Generation with Citations
 
 **Email**: jibin@nudt.edu.cn
@@ -255,46 +251,53 @@ Research topics:
 </div>
 
 ## 🎓 Postdoctoral Researchers
-- **Zhuo Li** ｜ Artificial Intelligence ｜ --
+- **Zhuo Li** ｜Next-generation OS ｜ --
 
 ---
 
 ## 🥇 Ph.D. Students
-- **Yongtao Tang** ｜ Information Extraction ｜ tangyongtao18@nudt.edu.cn  
-- **Shezheng Song** ｜ Text Summarization ｜ ssz614@nudt.edu.cn  
-- **Xiaopeng Li** ｜ LLM Edit｜ xiaopengli@nudt.edu.cn  
+- **Yongtao Tang** ｜ Multi-Modal LLM ｜ tangyongtao18@nudt.edu.cn  
+- **Shezheng Song** ｜ Multi-Modal LLM ｜ ssz614@nudt.edu.cn  
+- **Xiaopeng Li** ｜ LLM Knowledge Edit｜ xiaopengli@nudt.edu.cn  
 - **Xi Wang** ｜ LLM Jailbreak ｜ wx_23ndt@nudt.edu.cn  
-- **Qianyue Li**｜Information Retrieval｜li_qianyue@nudt.edu.cn
-- **Luxiang Guo** ｜ Agent ｜ lxg@nudt.edu.cn
+- **Qianyue Li**｜LLM-Powered Agent｜li_qianyue@nudt.edu.cn
+- **Luxiang Guo** ｜ LLM-Powered Agent ｜ lxg@nudt.edu.cn
+- **Jinying Xiao** ｜ LLM-Powered Agent, LLM Compression ｜
+- **Ye Xiao** ｜  ｜
+- **Mengrui Cao** ｜  ｜ 
 
 ---
 
 ## 🥈 Master Students
-- **Chuang Zhang** ｜ Operating System and Knowledge Graph ｜ --  
-- **Binrui Zeng** ｜ Artificial Intelligence for Operating System ｜ zengbinrui@nudt.edu.cn  
-- **Zhilong Liu** ｜ Artificial Intelligence for Operating System ｜ liuzhilong23@nudt.edu.cn  
-- **Xinran Hong** ｜ Artificial Intelligence for Operating System ｜ hongxinran@nudt.edu.cn  
-- **Zhuoyi Huang** ｜ Artificial Intelligence for Operating System ｜ 1586699654@qq.com  
+- **Binrui Zeng** ｜ LLM Compression ｜ zengbinrui@nudt.edu.cn  
+- **Xuan Xie** | LLM Compression |
+- **Ye Zhong** | LLM Compression |
+- **Jiacheng Jie** | LLM-Powered Agent | 
+- **Wei Li** ｜ LLM Fine-tuning ｜ liweil@nudt.edu.cn
+- **Qingxiao Zhang** | LLM Inference Acceleration | zhangqxnudt@nudt.ecu.cn
+- **Zhilong Liu** ｜ Next-generation OS｜ liuzhilong23@nudt.edu.cn  
+- **Xinran Hong** ｜ Next-generation OS ｜ hongxinran@nudt.edu.cn  
+- **Zhuoyi Huang** ｜ Next-generation OS ｜ 1586699654@qq.com  
 - **Jiahao Zhong** ｜ GPU Software Stack ｜ zhongjiahao2@nudt.edu.cn  
 - **Guojie Liu** ｜ Graph Retrieval-Augmented Generation ｜ liuguojie@nudt.edu.cn  
-- **Shuai Lu** ｜ Large Language Model ｜ lushuai@nudt.edu.cn  
-- **Yueyu Wang** ｜ Agent ｜ wangyueyu@nudt.edu.cn  
+- **Shuai Lu** ｜ Next-generation OS ｜ lushuai@nudt.edu.cn  
+- **Yueyu Wang** ｜ LLM-Powered Agent ｜ wangyueyu@nudt.edu.cn  
 - **Chenming Deng** ｜ System Software ｜ dengchenming@nudt.edu.cn
-- **Wei Li** ｜ Controllable Text Generate ｜ liweil@nudt.edu.cn
-- **Qingxiao Zhang** | Large Language Model Inference | zhangqxnudt@nudt.ecu.cn
+- **Chuang Zhang** ｜ Operating System and Knowledge Graph ｜ --  
+
 
 ---
 
-## 🎓 Graduated Students
+## 🎓 Alumni
 
 ### 🥇 Ph.D.
 - **2024 (2018.09 – 2024.06)**  
-  - **Huijun Liu** ｜ Postdoc @ National University of Singapore ｜ Artificial Intelligence Security ｜ liuhuijun@nudt.edu.cn  
+  - **Huijun Liu** ｜ Postdoc at National University of Singapore ｜ LLM Security ｜ liuhuijun@nudt.edu.cn  
 - **2022 (2018.09 – 2022.06)**  
-  - **Bin Ji** ｜ Postdoc @ National University of Singapore ｜ Information Extraction ｜ jibin@nudt.edu.cn  
+  - **Bin Ji** ｜ Postdoc at National University of Singapore ｜ LLM Agent ｜ jibin@nudt.edu.cn  
 - **2021 (2017.09 – 2021.12)**  
-  - **Zibo Yi** ｜ Work @ Beijing ｜ Artificial Intelligence Security ｜ yizibo14@nudt.edu.cn  
-  - **Shaoduo Gan** ｜ Work @ Beijing ｜ Distributed Machine Learning ｜ ganshaoduo@nudt.edu.cn  
+  - **Zibo Yi** ｜ National Institute in Beijing ｜ Artificial Intelligence Security ｜ yizibo14@nudt.edu.cn  
+  - **Shaoduo Gan** ｜  National Institute in Beijing ｜ Distributed Machine Learning ｜ ganshaoduo@nudt.edu.cn  
 
 ### 🥈 Master
 - **2024 (2021.09 – 2024.06)**  
