@@ -188,7 +188,7 @@ He has published over 30 papers and built many engineering systems on Linux, Win
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/shasha.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/shasha.png' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Shasha Li**  
 Shasha Li obtained her BS and PHD from NUDT in 2005 and 2011, supervised by Prof. Huowang Chen and Prof. Zhoujun Li.  
@@ -201,7 +201,7 @@ Published 40+ papers in ACL, COLING, TKDE, IPM, etc.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/lxd.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/lxd.png' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Xiaodong Liu**  
 Received BS and Ph.D. in Computer Science and Technology from NUDT (2007, 2013).  
@@ -212,7 +212,7 @@ Research: Desktop OS, Software Engineering, Troubleshooting.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pl.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pl.png' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Long Peng**  
 BS & MS from NUDT (2009, 2012), Ph.D. from Vrije Universiteit Brussel (2017).  
@@ -227,7 +227,7 @@ Research topics:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/wangjing.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/wangjing.png' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Jing Wang**  
 Jing Wang received her BS and Ph.D in Computer Science and Technology from the National University of Defense Technology (NUDT), China in 2008 and 2019, respectively. Currently she works as an assistant research fellow at NUDT.Her research focuses on operating system，software engineering.
@@ -236,7 +236,7 @@ Jing Wang received her BS and Ph.D in Computer Science and Technology from the N
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/jb.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/jb.jpg' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Bin Ji**  
 Bin Ji received his BS in Computer Science from Shandong University, China, in 2014 and his Ph.D in Computer Science from the National University of Defense Technology (NUDT), China, in 2022. He was a Research Fellow at the Institute of Data Science, National University of Singapore, from 2023 to 2024. Currentl,y he works as an assistant research fellow at NUDT. 
