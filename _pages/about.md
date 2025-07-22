@@ -22,7 +22,7 @@ The TMG research group is a vibrant and innovative team dedicated to advancing t
 # 🔬 Research Areas
 
 ## 🖥️ Next-generation Operating System
-- AIOS / LLM Agent OS
+- AIOS / LLM-Powered Agent OS
 - RISC-V oriented OS architecture design  
 - Mobile OS     
 
