@@ -274,7 +274,7 @@ Research topics:
 - **Ye Zhong** ｜LLM Compression ｜
 - **Jiacheng Jie** ｜ LLM-Powered Agent ｜ 
 - **Wei Li** ｜ LLM Fine-tuning ｜ liweil@nudt.edu.cn
-- **Qingxiao Zhang** | LLM Inference Acceleration ｜ zhangqxnudt@nudt.ecu.cn
+- **Qingxiao Zhang** ｜ LLM Inference Acceleration ｜ zhangqxnudt@nudt.ecu.cn
 - **Zhilong Liu** ｜ Next-generation OS｜ liuzhilong23@nudt.edu.cn  
 - **Xinran Hong** ｜ Next-generation OS ｜ hongxinran@nudt.edu.cn  
 - **Zhuoyi Huang** ｜ Next-generation OS ｜ 1586699654@qq.com  
