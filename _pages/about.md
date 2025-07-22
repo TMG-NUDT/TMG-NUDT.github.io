@@ -163,7 +163,7 @@ The TMG research group is a vibrant and innovative team dedicated to advancing t
 
 ## 🧑‍🏫 Teachers
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/jack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/jack.png' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Jie Yu**  
 Jie Yu obtained his BS and PHD from the National University of Defense Technology (NUDT) in 2005 and 2010, supervised by Prof. Huowang Chen and Prof. Zhoujun Li. He was a Post-graduate intern at the National University of Singapore, supervised by Prof. Chang Ee-Chien during 2008-2009. Currently, he is a professor at NUDT.
@@ -174,7 +174,7 @@ He has published more than 60 papers, including SIGCOMM, AAAI, ICSE, COLING, ICP
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/marklin.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/marklin.png' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Jun Ma**  
 Jun Ma obtained his BS and PHD from NUDT in 2005 and 2011, supervised by Prof. Zhiying Wang.  
