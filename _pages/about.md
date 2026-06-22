@@ -327,7 +327,7 @@ Huijun Liu received her B.S. degree in Computer Science and Technology from the 
 - **2026 (2023.09 – 2026.06)** 
   - **Xiaopeng Li** ｜ Postdoc at National University of Defense Technology ｜ LLM Knowledge Edit｜ xiaopengli@nudt.edu.cn 
 - **2026 (2022.09 – 2026.06)**  
-  - **Shezheng Song** ｜ -- ｜ Multi-Modal LLM ｜ ssz614@nudt.edu.cn  
+  - **Shezheng Song** ｜ Hefei University of Technology ｜ Multi-Modal LLM ｜ ssz614@nudt.edu.cn  
 - **2026 (2021.09 – 2026.06)**  
   - **Yongtao Tang** ｜ Postdoc at National University of Defense Technology ｜ Multi-Modal LLM ｜ tangyongtao18@nudt.edu.cn  
 - **2024 (2018.09 – 2024.06)**  
