@@ -250,40 +250,59 @@ Research topics:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/liuhuijun.jpg' alt="sym" width=300></div></div>
+<div class='paper-box-text' markdown="1">
+**Huijun Liu**  
+Huijun Liu received her B.S. degree in Computer Science and Technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016, and her Ph.D. degree in Computer Science and Technology from the National University of Defense Technology (NUDT), Changsha, China, in 2024. She was a Research Fellow at the National University of Singapore (NUS), Singapore, from 2024 to 2025. Currently, she is currently an Assistant Research Fellow at NUDT.Research topics:
+- Security of Large Language Models
+- Security of LLM-Powered Agents
+- Security of Embodied AI Operating Systems
+
+**Email**: liuhuijun@nudt.edu.cn
+</div>
+</div>
+
 ## 🎓 Postdoctoral Researchers
 - **Zhuo Li** ｜Next-generation OS ｜ --
+- **Xiaopeng Li** ｜LLM Powered Agent OS ｜ xiaopengli@nudt.edu.cn
+- **Jianlin Li** ｜Agent Plan ｜ jianlingl@nudt.edu.cn
+- **Yongtao Tang** ｜  ｜ tangyongtao18@nudt.edu.cn
 
 ---
 
-## 🥇 Ph.D. Students
-- **Yongtao Tang** ｜ Multi-Modal LLM ｜ tangyongtao18@nudt.edu.cn  
-- **Shezheng Song** ｜ Multi-Modal LLM ｜ ssz614@nudt.edu.cn  
-- **Xiaopeng Li** ｜ LLM Knowledge Edit｜ xiaopengli@nudt.edu.cn  
-- **Xi Wang** ｜ LLM Jailbreak ｜ wx_23ndt@nudt.edu.cn  
-- **Qianyue Li**｜LLM-Powered Agent｜li_qianyue@nudt.edu.cn
+## 🥇 Ph.D. Students 
+- **Xi Wang** ｜ LLM Jailbreak ｜ wx_23ndt@nudt.edu.cn
+- **Hao Xu** ｜ Edge LLM ｜ xuhao19@nudt.edu.cn
+- **Qianyue Li** ｜ LLM-Powered Agent ｜ li_qianyue@nudt.edu.cn
 - **Luxiang Guo** ｜ LLM-Powered Agent ｜ lxg@nudt.edu.cn
-- **Jinying Xiao** ｜ LLM-Powered Agent, LLM Compression ｜
-- **Ye Xiao** ｜  ｜
-- **Mengrui Cao** ｜  ｜ 
+- **Jinying Xiao** ｜ LLM-Powered Agent, LLM Compression ｜ jinyingxiao@nudt.edu.cn
+- **Ye Xiao** ｜ AIOS / Embodied OS ｜ xiaoye1120@nudt.edu.cn
+- **Mengrui Cao** ｜ Knowledge Editing ｜ mengruicao@nudt.edu.cn
+- **Litiao Qiu** ｜ LLM Inference Acceleration ｜ 24b903134@stu.hit.edu.cn
+- **Feng Mo** ｜ Embodied Intelligence OS ｜ mofeng711@163.com
+- **Jinhan Deng** ｜ Software Supply Chain Security ｜ djh_ntdt@nudt.edu.cn
 
 ---
 
 ## 🥈 Master Students
-- **Binrui Zeng** ｜ LLM Compression ｜ zengbinrui@nudt.edu.cn  
-- **Xuan Xie** ｜ LLM Compression ｜
-- **Ye Zhong** ｜LLM Compression ｜
-- **Jiacheng Jie** ｜ LLM-Powered Agent ｜ 
 - **Wei Li** ｜ LLM Fine-tuning ｜ liweil@nudt.edu.cn
-- **Qingxiao Zhang**｜LLM Inference Acceleration｜zhangqxnudt@nudt.ecu.cn
-- **Zhilong Liu** ｜ Next-generation OS｜ liuzhilong23@nudt.edu.cn  
-- **Xinran Hong** ｜ Next-generation OS ｜ hongxinran@nudt.edu.cn  
-- **Zhuoyi Huang** ｜ Next-generation OS ｜ 1586699654@qq.com  
-- **Jiahao Zhong** ｜ GPU Software Stack ｜ zhongjiahao2@nudt.edu.cn  
-- **Guojie Liu** ｜ Graph Retrieval-Augmented Generation ｜ liuguojie@nudt.edu.cn  
-- **Shuai Lu** ｜ Next-generation OS ｜ lushuai@nudt.edu.cn  
-- **Yueyu Wang** ｜ LLM-Powered Agent ｜ wangyueyu@nudt.edu.cn  
+- **Qingxiao Zhang** ｜ LLM Inference Acceleration ｜ zhangqxnudt@nudt.ecu.cn
+- **Jiahao Zhong** ｜ GPU Software Stack ｜ zhongjiahao2@nudt.edu.cn
+- **Guojie Liu** ｜ Graph Retrieval-Augmented Generation ｜ liuguojie@nudt.edu.cn
+- **Shuai Lu** ｜ Next-generation OS ｜ lushuai@nudt.edu.cn
+- **Yueyu Wang** ｜ LLM-Powered Agent ｜ wangyueyu@nudt.edu.cn
 - **Chenming Deng** ｜ System Software ｜ dengchenming@nudt.edu.cn
-- **Chuang Zhang** ｜ Operating System and Knowledge Graph ｜ --  
+- **Zeyang He** ｜ Confidential Compute ｜ hezeyang@nudt.edu.cn
+- **Xuan Xie** ｜ LLM Compression ｜ xiaoxuan25@nudt.edu.cn
+- **Ye Zhong** ｜ LLM Compression ｜ zhongye25@nudt.edu.cn
+- **Jiacheng Jie** ｜ LLM-Powered Agent ｜ 19357571552@163.com
+- **Changyi Hao** ｜ LLM Agent ｜ haochangyi@nudt.edu
+- **Kui Xu** ｜ LLM Inference Acceleration ｜ xukui_0505@nudt.edu.cn
+- **Jun Xia** ｜ Embodied Intelligence ｜ xiajun_25@nudt.edu.cn
+- **Shixian Chen** ｜ LLM-based Automated Program Repair ｜ csx04@nudt.edu.cn
+- **Yuxiang Chen** ｜ LM-powered Agents ｜ chenyuxiang25@nudt.edu.cn
+- **Zhaoyang Wang** ｜ Embodied Intelligence ｜ wangzhaoyang123@nudt.edu.cn
+- **Yuxuan Yang** ｜ Operator Optimization ｜ yyxuan@nudt.edu.cn
 
 
 ---
@@ -291,6 +310,12 @@ Research topics:
 ## 🎓 Alumni
 
 ### 🥇 Ph.D.
+- **2026 (2023.09 – 2026.06)** 
+  - **Xiaopeng Li** ｜ Postdoc at National University of Defense Technology ｜ LLM Knowledge Edit｜ xiaopengli@nudt.edu.cn 
+- **2026 (2022.09 – 2026.06)**  
+  - **Shezheng Song** ｜ -- ｜ Multi-Modal LLM ｜ ssz614@nudt.edu.cn  
+- **2026 (2021.09 – 2026.06)**  
+  - **Yongtao Tang** ｜ Postdoc at National University of Defense Technology ｜ Multi-Modal LLM ｜ tangyongtao18@nudt.edu.cn  
 - **2024 (2018.09 – 2024.06)**  
   - **Huijun Liu** ｜ Postdoc at National University of Singapore ｜ LLM Security ｜ liuhuijun@nudt.edu.cn  
 - **2022 (2018.09 – 2022.06)**  
@@ -300,6 +325,13 @@ Research topics:
   - **Shaoduo Gan** ｜  National Institute in Beijing ｜ Distributed Machine Learning ｜ ganshaoduo@nudt.edu.cn  
 
 ### 🥈 Master
+- **2026 (2023.09 - 2026.06)**
+  - **Binrui Zeng** ｜ -- ｜LLM Compression ｜ zengbinrui@nudt.edu.cn
+  - **Zhilong Liu** ｜ -- ｜Next-generation OS｜ liuzhilong23@nudt.edu.cn  
+  - **Xinran Hong** ｜ -- ｜Next-generation OS ｜ hongxinran@nudt.edu.cn  
+  - **Zhuoyi Huang** ｜ -- ｜Next-generation OS ｜ 1586699654@qq.com 
+- **2026 (2022.09 - 2026.06)**
+  - **Chuang Zhang** ｜ -- ｜Operating System and Knowledge Graph ｜ --  
 - **2024 (2021.09 – 2024.06)**  
   - **Miaomiao Li** ｜ XingWang ｜ Artificial Intelligence Security ｜ limiaomiao21@nudt.edu.cn  
 - **2023 (2020.09 – 2023.06)**  
