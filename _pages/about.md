@@ -67,27 +67,38 @@ The TMG research group is a vibrant and innovative team dedicated to advancing t
 [//]: # (</div>)
 ## 2026
 
-- Hao Xu, Long Peng, Xiaodong Liu, Jun Ma, Shasha Li, Jie Yu. [Camel: Energy-Aware LLM Inference on Resource-Constrained Devices]() **SMC**
-- Qingxiao Zhang, Xiaopeng Li, Jinzhu Kong, Xiaodong Liu, Bin Ji, Shasha Li, Jun Ma, Jie Yu. [SPAR: Step-wise Path Dispatching and Asymmetric Re-routing for Efficient MoE Inference]() **ICIC**
-- Zhilong Liu, Long Peng, Zhuo Li, Kui Xu, Xiaodong Liu, Jie Yu. [Efficient 4-bit Quantized Inference for LLMs on RISC-V via RVV-Based GGUF Weight Layout Reconfiguration]() **ICIC**
-- Qingxiao Zhang, Xiaopeng Li, Bin Ji, Xiaodong Liu, Jie Yu, Long Peng, Hao Xu. [MESO: Memory-Efficient Speculative Offloading for Large Language Model Inference]() **IJCNN**
-- Ye Zhong, Bin Ji, Xiaodong Liu, Shasha Li, Jun Ma, Jie Yu. [OBEQuant: Outlier-aware Batch-norm Equivalent Quantization for Large Language Models]() **IJCNN**.
-- Wei Li, Shezheng Song, Xiaodong Liu, Bin Ji, Jinying Xiao, Jie Wang, Zhenyang Gao, Jie Yu. [RPLCD: Training-Free Safety Enhancement for Instruction-Tuned LLMs via Reverse Prompt Layer Contrastive Decoding]() **IJCNN**
+- Xi Wang, Songlei Jian, Shasha Li, Xiaopeng Li, Zhaoye Li, Bin Ji, Baosheng Wang, Jie Yu. [JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification](https://arxiv.org/abs/2601.03005), **ACL**. 
+- Bin Ji, Huijun Liu, Shasha Li, Jun Ma, Jie Yu, See-Kiong Ng. [Evaluating Large Language Models on Named Entity Recognition](), **TNNLS**
+- Huijun Liu, Shasha Li, Bin Ji, Xiaohu Du, Xiaopeng Li, Jun Ma, Jie Yu. [SEAttack: A self-evolving jailbreak attack to induce toxic responses for non-toxic queries in large language models](), **IPM**
+- Shezheng Song, Shasha Li, Shan Zhao, Xiaopeng Li, Qian Wan, Jun Ma, Jie Yu. [Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](), **CVPR**
+- Shasha Li, Bin Ji, Xiaodong Liu, Jun Ma, Jie Yu. [ComAlign: A Benchmark Aligning Natural Language with Operating System Commands](), **CMC**
+- Xiaopeng Li, Shasha Li, Xi Wang, Shezheng Song, Bin Ji, Shangwen Wang, Jun Ma, Xiaodong Liu, Mina Liu, Jie Yu. [EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing](), **WWW**
+- Hao Xu, Long Peng, Xiaodong Liu, Jun Ma, Shasha Li, Jie Yu. [Camel: Energy-Aware LLM Inference on Resource-Constrained Devices](), **SMC**
+- Qingxiao Zhang, Xiaopeng Li, Jinzhu Kong, Xiaodong Liu, Bin Ji, Shasha Li, Jun Ma, Jie Yu. [SPAR: Step-wise Path Dispatching and Asymmetric Re-routing for Efficient MoE Inference](), **ICIC**
+- Zhilong Liu, Long Peng, Zhuo Li, Kui Xu, Xiaodong Liu, Jie Yu. [Efficient 4-bit Quantized Inference for LLMs on RISC-V via RVV-Based GGUF Weight Layout Reconfiguration](), **ICIC**
+- Qingxiao Zhang, Xiaopeng Li, Bin Ji, Xiaodong Liu, Jie Yu, Long Peng, Hao Xu. [MESO: Memory-Efficient Speculative Offloading for Large Language Model Inference](), **IJCNN**
+- Ye Zhong, Bin Ji, Xiaodong Liu, Shasha Li, Jun Ma, Jie Yu. [OBEQuant: Outlier-aware Batch-norm Equivalent Quantization for Large Language Models](), **IJCNN**.
+- Wei Li, Shezheng Song, Xiaodong Liu, Bin Ji, Jinying Xiao, Jie Wang, Zhenyang Gao, Jie Yu. [RPLCD: Training-Free Safety Enhancement for Instruction-Tuned LLMs via Reverse Prompt Layer Contrastive Decoding](), **IJCNN**
 
 ## 2025
 
-- Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, See-Kiong Ng. [Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599). **AAAI**
+- Xi Wang, Songlei Jian, Shasha Li, Xiaopeng Li, Bin Ji, Ma Jun, Xiaodong Liu, Jing Wang, Jianfeng Zhang, Jie Yu, Feilong Bao, Wangbaosheng. [Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experience](), **EMNLP(Oral)**
+- Wenzhu Wang, Ke Li, Bin Ji, Xiaodong Liu, Jie Yu, Qingbo Wu. [A survey of AI inference technologies for on-device systems](), **IoTJ**
+- Mingzhe Du, Luu A Tuan, Bin Ji, Qian Liu, See-Kiong Ng. [Mercury: A code efficiency benchmark for code large language models](), **NeurIPS**
+- Qingbo Wu, Jie Yu, Xiaodong Liu, Bin Ji, Jinzhu Kong, Wenzhu Wang. [Research on a New Operating System R&D Model Based on the Open Source Community](), **ISCSIC**
+- Xiaopeng Li, Shanwen Wang, Shasha Li, Shezheng Song, Bin Ji, Jun Ma, Jie Yu. [Rethinking Residual Distribution in Locate-then-Edit Model Editing](), **NeurIPS**
+- Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, See-Kiong Ng. [Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599), **AAAI**
 - Zhilong Liu，Long Peng，Wenzhu Wang，Ke Li，Binrui Zeng，Jie Yu，and Xiaodong Liu. [Accelerating LLM Inference on RISC-V EdgeDevices via Vector Extension Optimization]() **ICIC**
 - Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, Shangwen Wang, Xinran Hong, Yongtao Tang. [LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment](https://arxiv.org/abs/2412.18135), **IJCNN**
-- Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [Model Editing for LLMs4Code: How Far are We?](https://arxiv.org/abs/2411.06638) **ICSE**
+- Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [Model Editing for LLMs4Code: How Far are We?](https://arxiv.org/abs/2411.06638), **ICSE**
 - Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI**
 - Xiaopeng Li, Shasha Li, Shangwen Wang, Shezheng Song, Bin Ji, Huijun Liu, Jun Ma, Jie Yu, [Identifying Knowledge Editing Types in Large Language Models](https://arxiv.org/abs/2409.19663), **KDD**
-- Luxiang Guo, Yueyu Wang，Qianyue Li,Shasha Li, Xiaodong Liu, Bin Ji and Jie Yu.[大语言模型智能体操作系统研究综述]()**（计算机科学 CCF-T2**）
-- Mingzhe Du, Anh Tuan Luu, Bin Ji, Xiaobao Wu, Yuhao QING, Dong HUANG, Terry Yue Zhuo, Qian Liu, See-Kiong Ng. [CodeArena: A Collective Evaluation Platform for LLM Code Generation](https://arxiv.org/abs/2503.01295). **ACL 2025 System Demonstration Track**.
-- Mingzhe Du, Anh Tuan Luu, Xiaobao Wu, Yichong Huang, Yue Liu, Dong HUANG, Huijun Liu, Bin Ji, Jie M. Zhang, See-Kiong Ng. [Collective Bias Mitigation via Model Routing and Collaboration](https://openreview.net/forum?id=YWJYJduVej), **ICML workshop**.
+- Luxiang Guo, Yueyu Wang，Qianyue Li,Shasha Li, Xiaodong Liu, Bin Ji and Jie Yu.[大语言模型智能体操作系统研究综述](), **（计算机科学 CCF-T2**）
+- Mingzhe Du, Anh Tuan Luu, Bin Ji, Xiaobao Wu, Yuhao QING, Dong HUANG, Terry Yue Zhuo, Qian Liu, See-Kiong Ng. [CodeArena: A Collective Evaluation Platform for LLM Code Generation](https://arxiv.org/abs/2503.01295), **ACL 2025 System Demonstration Track**.
+- Mingzhe Du, Anh Tuan Luu, Xiaobao Wu, Yichong Huang, Yue Liu, Dong HUANG, Huijun Liu, Bin Ji, Jie M. Zhang, See-Kiong Ng. [Collective Bias Mitigation via Model Routing and Collaboration](https://openreview.net/forum?id=YWJYJduVej), **ICML workshop**
 - 纪斌, 刘晓东, 彭龙. [大模型时代智能操作系统现状与展望](), **CCCF-计算, 1(3)**
--  Zhang Ying, Lyu Chen, Chang Lu, Hong Yang, Ji Bin, Wei Ling-Yun. [Insights into the Opportunities and Development of Intelligent Healthcare: A Systematic Review of Automated ICD Coding Models Using the MIMIC Dataset]() **Digital Health**
-- Shezheng Song , Xiaopeng Li , Shasha Li , Shan Zhao , Jie Yu, Jun Ma, Xiaoguang Mao , Weimin Zhang,Meng Wang. [How to Bridge the Gap Between Modalities: Survey on Multimodal Large Language Model]() **TKDE**
+-  Zhang Ying, Lyu Chen, Chang Lu, Hong Yang, Ji Bin, Wei Ling-Yun. [Insights into the Opportunities and Development of Intelligent Healthcare: A Systematic Review of Automated ICD Coding Models Using the MIMIC Dataset](), **Digital Health**
+- Shezheng Song , Xiaopeng Li , Shasha Li , Shan Zhao , Jie Yu, Jun Ma, Xiaoguang Mao , Weimin Zhang,Meng Wang. [How to Bridge the Gap Between Modalities: Survey on Multimodal Large Language Model](), **TKDE**
 
 ## 2024
 
@@ -276,11 +287,49 @@ Huijun Liu received her B.S. degree in Computer Science and Technology from the 
 </div>
 </div>
 
-## 🎓 Postdoctoral Researchers
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/lizhuo.jpg' alt="sym" width=300></div></div>
+<div class='paper-box-text' markdown="1">
+**Zhuo Li**  
+
+
+**Email**: 
+</div>
+</div> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/lijianling.jpg' alt="sym" width=300></div></div>
+<div class='paper-box-text' markdown="1">
+**Jianling Li**  
+Jianling Li received her B.S. in Computer Science and Technology from Northwestern Polytechnical University, China, in 2018, and her M.S. in Software Engineering from the National University of Defense Technology, China, in 2021. She is currently pursuing a Ph.D. in Electronic Information at Tianjin University. She has research experience at Qiyuan National Laboratory, Westlake University, and The Chinese University of Hong Kong, Shenzhen. Her research focuses on controllable and planning-oriented LLM agents, controllable text generation with LLMs.Her recent work also covers code generation and runtime support for LLM agents:
+- Planning for LLM Agents
+- Controllable Generation with LLMs
+- LLM Evaluation and Benchmarking
+
+**Email**: jianlingl@tju.edu.cn
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/lixiaopeng.png' alt="sym" width=300></div></div>
+<div class='paper-box-text' markdown="1">
+**Xiaopeng Li**  
+Xiaopeng Li received his Doctor of Engineering degree from National University of Defense Technology in 2026. He is currently a postdoctoral researcher at the same university. His main research interests cover large language model (LLM) editing, LLM-Powered Agents, and LLM-Powered Agent OS.
+
+**Email**: xiaopengli@nudt.edu.cn
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/tangyongtao.jpg' alt="sym" width=300></div></div>
+<div class='paper-box-text' markdown="1">
+**Yongtao Tang**  
+
+**Email**: tangyongtao18@nudt.edu.cn
+</div>
+</div> -->
+
+<!-- ## 🎓 Postdoctoral Researchers
 - **Zhuo Li** ｜Next-generation OS ｜ --
 - **Xiaopeng Li** ｜LLM Powered Agent OS ｜ xiaopengli@nudt.edu.cn
-- **Jianlin Li** ｜Agent Plan ｜ jianlingl@nudt.edu.cn
-- **Yongtao Tang** ｜ Embodied Intelligence OS ｜ tangyongtao18@nudt.edu.cn
+- **Jianling Li** ｜Agent Plan ｜ jianlingl@nudt.edu.cn
+- **Yongtao Tang** ｜ Embodied Intelligence OS ｜ tangyongtao18@nudt.edu.cn -->
 
 ---
 
