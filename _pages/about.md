@@ -67,17 +67,17 @@ The TMG research group is a vibrant and innovative team dedicated to advancing t
 [//]: # (</div>)
 ## 2026
 
-- Hao Xu, Long Peng, Xiaodong Liu, Jun Ma, Shasha Li, Jie Yu. [Camel: Energy-Aware LLM Inference on Resource-Constrained Devices]() **SMC**.
-- Qingxiao Zhang, Xiaopeng Li, Jinzhu Kong, Xiaodong Liu, Bin Ji, Shasha Li, Jun Ma, Jie Yu. [SPAR: Step-wise Path Dispatching and Asymmetric Re-routing for Efficient MoE Inference]() **ICIC**.
-- Zhilong Liu, Long Peng, Zhuo Li, Kui Xu, Xiaodong Liu, Jie Yu. [Efficient 4-bit Quantized Inference for LLMs on RISC-V via RVV-Based GGUF Weight Layout Reconfiguration]() **ICIC**.
-- Qingxiao Zhang, Xiaopeng Li, Bin Ji, Xiaodong Liu, Jie Yu, Long Peng, Hao Xu. [MESO: Memory-Efficient Speculative Offloading for Large Language Model Inference]() **IJCNN**.
+- Hao Xu, Long Peng, Xiaodong Liu, Jun Ma, Shasha Li, Jie Yu. [Camel: Energy-Aware LLM Inference on Resource-Constrained Devices]() **SMC**
+- Qingxiao Zhang, Xiaopeng Li, Jinzhu Kong, Xiaodong Liu, Bin Ji, Shasha Li, Jun Ma, Jie Yu. [SPAR: Step-wise Path Dispatching and Asymmetric Re-routing for Efficient MoE Inference]() **ICIC**
+- Zhilong Liu, Long Peng, Zhuo Li, Kui Xu, Xiaodong Liu, Jie Yu. [Efficient 4-bit Quantized Inference for LLMs on RISC-V via RVV-Based GGUF Weight Layout Reconfiguration]() **ICIC**
+- Qingxiao Zhang, Xiaopeng Li, Bin Ji, Xiaodong Liu, Jie Yu, Long Peng, Hao Xu. [MESO: Memory-Efficient Speculative Offloading for Large Language Model Inference]() **IJCNN**
 - Ye Zhong, Bin Ji, Xiaodong Liu, Shasha Li, Jun Ma, Jie Yu. [OBEQuant: Outlier-aware Batch-norm Equivalent Quantization for Large Language Models]() **IJCNN**.
-- Wei Li, Shezheng Song, Xiaodong Liu, Bin Ji, Jinying Xiao, Jie Wang, Zhenyang Gao, Jie Yu. [RPLCD: Training-Free Safety Enhancement for Instruction-Tuned LLMs via Reverse Prompt Layer Contrastive Decoding]() **IJCNN**.
+- Wei Li, Shezheng Song, Xiaodong Liu, Bin Ji, Jinying Xiao, Jie Wang, Zhenyang Gao, Jie Yu. [RPLCD: Training-Free Safety Enhancement for Instruction-Tuned LLMs via Reverse Prompt Layer Contrastive Decoding]() **IJCNN**
 
 ## 2025
 
-- Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, See-Kiong Ng. [Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599). **AAAI**.
-- Zhilong Liu，Long Peng，Wenzhu Wang，Ke Li，Binrui Zeng，Jie Yu，and Xiaodong Liu. [Accelerating LLM Inference on RISC-V EdgeDevices via Vector Extension Optimization]() **ICIC**.
+- Bin Ji, Huijun Liu, Mingzhe Du, Shasha Li, Xiaodong Liu, Jun Ma, Jie Yu, See-Kiong Ng. [Towards Verifiable Text Generation with Generative Agent](https://ojs.aaai.org/index.php/AAAI/article/view/34599). **AAAI**
+- Zhilong Liu，Long Peng，Wenzhu Wang，Ke Li，Binrui Zeng，Jie Yu，and Xiaodong Liu. [Accelerating LLM Inference on RISC-V EdgeDevices via Vector Extension Optimization]() **ICIC**
 - Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, Shangwen Wang, Xinran Hong, Yongtao Tang. [LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment](https://arxiv.org/abs/2412.18135), **IJCNN**
 - Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [Model Editing for LLMs4Code: How Far are We?](https://arxiv.org/abs/2411.06638) **ICSE**
 - Xiaopeng Li, Shasha Li, Shezheng Song, Huijun Liu, Bin Ji, Xi Wang, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Weimin Zhang. [SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](https://ojs.aaai.org/index.php/AAAI/article/view/34628) **AAAI**
@@ -87,7 +87,7 @@ The TMG research group is a vibrant and innovative team dedicated to advancing t
 - Mingzhe Du, Anh Tuan Luu, Xiaobao Wu, Yichong Huang, Yue Liu, Dong HUANG, Huijun Liu, Bin Ji, Jie M. Zhang, See-Kiong Ng. [Collective Bias Mitigation via Model Routing and Collaboration](https://openreview.net/forum?id=YWJYJduVej), **ICML workshop**.
 - 纪斌, 刘晓东, 彭龙. [大模型时代智能操作系统现状与展望](), **CCCF-计算, 1(3)**
 -  Zhang Ying, Lyu Chen, Chang Lu, Hong Yang, Ji Bin, Wei Ling-Yun. [Insights into the Opportunities and Development of Intelligent Healthcare: A Systematic Review of Automated ICD Coding Models Using the MIMIC Dataset]() **Digital Health**
-- Shezheng Song , Xiaopeng Li , Shasha Li , Shan Zhao , Jie Yu, Jun Ma, Xiaoguang Mao , Weimin Zhang,Meng Wang. [How to Bridge the Gap Between Modalities: Survey on Multimodal Large Language Model]() **TKDE**.
+- Shezheng Song , Xiaopeng Li , Shasha Li , Shan Zhao , Jie Yu, Jun Ma, Xiaoguang Mao , Weimin Zhang,Meng Wang. [How to Bridge the Gap Between Modalities: Survey on Multimodal Large Language Model]() **TKDE**
 
 ## 2024
 
@@ -95,8 +95,8 @@ The TMG research group is a vibrant and innovative team dedicated to advancing t
 - Shezheng Song, Shan Zhao, Shasha Li, Chengyu Wang, Tianwei Yan, Xiaoguang Mao, Meng Wang. [A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking](https://ojs.aaai.org/index.php/AAAI/article/view/29867), **AAAI**
 - Mingzhe Du, Anh Tuan Luu, Bin Ji, See-Kiong Ng. [From Static to Dynamic: Knowledge Metabolism for Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/30564). **AAAI**.
 - Xiaohu Du, Ming Wen, Jiahao Zhu, Zifan Xie, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin. [Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning](https://aclanthology.org/2024.findings-acl.625/). **ACL(Findings)**.
-- Mingzhe Du, Anh Tuan Luu, Bin Ji, Qian Liu, See-Kiong Ng. [Mercury: A Code Efficiency Benchmark for Code Large Language Models](https://neurips.cc/virtual/2024/poster/97452). **NeurIPS**.
-- Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Miaomiao Li, Xi Wang. [Offline Textual Adversarial Attacks against Large Language Models](https://ieeexplore.ieee.org/document/10650921). **IJCNN**.
+- Mingzhe Du, Anh Tuan Luu, Bin Ji, Qian Liu, See-Kiong Ng. [Mercury: A Code Efficiency Benchmark for Code Large Language Models](https://neurips.cc/virtual/2024/poster/97452). **NeurIPS**
+- Huijun Liu, Bin Ji, Jie Yu, Shasha Li, Jun Ma, Miaomiao Li, Xi Wang. [Offline Textual Adversarial Attacks against Large Language Models](https://ieeexplore.ieee.org/document/10650921). **IJCNN**
 - Bin Ji, Huijun Liu, Mingzhe Du, See-Kiong Ng. [Chain-of-Thought Improves Text Generation with Citations in Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29794). **AAAI**.
 - Jie Yu, Feilong Bao, NYIMA Tash, Luxiang Guo, Yongtao Tang, Shasha Li, Si Zheng, Xiaodong  Liu, Jun Ma, Zhuo Li, Yiqing Wang, Jianfeng Li. [基于通用大模型的民族语言大模型构建技术]()，**中文信息学报（CCF-T1）**
 
@@ -412,6 +412,14 @@ In May 2021, some members of our research group went to Beijing to attend the 11
 </div>
 
 # 💻 Entertainment
+
+## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2026_spring.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In 2026, TMG group held a mountain climbing spring outing at Lianhua Mountain.
+</div>
+</div>
 
 ## 2025
 
