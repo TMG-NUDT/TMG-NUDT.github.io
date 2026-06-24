@@ -301,7 +301,7 @@ Research topic:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lijianling.jpg' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Jianling Li**  
-Jianling Li received her B.S. in Computer Science and Technology from Northwestern Polytechnical University, China, in 2018, and her M.S. in Software Engineering from the National University of Defense Technology, China, in 2021. She is currently pursuing a Ph.D. in Electronic Information at Tianjin University. She has research experience at Qiyuan National Laboratory, Westlake University, and The Chinese University of Hong Kong, Shenzhen. Her research focuses on controllable and planning-oriented LLM agents, controllable text generation with LLMs.Her recent work also covers code generation and runtime support for LLM agents:
+Jianling Li received her B.S. in Computer Science and Technology from Northwestern Polytechnical University, China, in 2018, and her M.S. in Software Engineering from the National University of Defense Technology, China, in 2021. She pursued a Ph.D. in Electronic Information at Tianjin University. She has research experience at Qiyuan National Laboratory, Westlake University, and The Chinese University of Hong Kong, Shenzhen. Her research focuses on controllable and planning-oriented LLM agents, controllable text generation with LLMs.Her recent work also covers code generation and runtime support for LLM agents:
 - Planning for LLM Agents
 - Controllable Generation with LLMs
 - LLM Evaluation and Benchmarking
