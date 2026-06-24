@@ -287,14 +287,16 @@ Huijun Liu received her B.S. degree in Computer Science and Technology from the 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/lizhuo.jpg' alt="sym" width=300></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/lizhuo.jpg' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Zhuo Li**  
+Zhuo Li received his B.S. degree in Information and Computing Science from Hunan University of Science and Technology in 2016, and his Ph.D. degree from the University of Chinese Academy of Sciences in 2023. During his Ph.D. study, he was awarded a scholarship by the China Scholarship Council (CSC) in 2021 and studied at Ghent University, Belgium. In July 2023, he joined the College of Computer Science and Technology, National University of Defense Technology (NUDT), as a Postdoctoral Researcher under the supervision of Prof. Jie Yu. Currently, he is an Assistant Research Fellow at NUDT.
+Research topic:
+- Intelligent Operating Systems
 
-
-**Email**: 
+**Email**: lizhuo@nudt.edu.cn
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lijianling.jpg' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
@@ -317,13 +319,18 @@ Xiaopeng Li received his Doctor of Engineering degree from National University o
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/tangyongtao.jpg' alt="sym" width=300></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tangyongtao.png' alt="sym" width=300></div></div>
 <div class='paper-box-text' markdown="1">
 **Yongtao Tang**  
+Yongtao Tang obtained his Master's degree in Computer Science from National University of Defense Technology (NUDT), China, in 2021 and his Ph.D. in NUDT, China, in 2026. Currently, he conducts postdoctoral research at NUDT.
+Research topics:
+- Embodied AI Operating System
+- Whole-body Control Models & Hardware Abstraction
+- Multi-modal Entity Linking
 
-**Email**: tangyongtao18@nudt.edu.cn
+**Email**: tangyt@nudt.edu.cn
 </div>
-</div> -->
+</div>
 
 <!-- ## 🎓 Postdoctoral Researchers
 - **Zhuo Li** ｜Next-generation OS ｜ --
